@@ -1,0 +1,38 @@
+name: Update Registry
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate registry.json
+        run: |
+          echo "[" > registry.json
+          FIRST=true
+          # 遍历所有文件夹
+          for dir in */; do
+            # 检查文件夹里是否有 AI 生成的 info.json
+            if [ -f "${dir}info.json" ]; then
+              if [ "$FIRST" = false ]; then
+                echo "," >> registry.json
+              fi
+              cat "${dir}info.json" >> registry.json
+              FIRST=false
+            fi
+          done
+          echo "]" >> registry.json
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add registry.json
+          git commit -m "Auto-update registry.json" || exit 0
+          git push origin main
