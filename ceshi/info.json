@@ -1,0 +1,19 @@
+{
+  "id": "ceshi",
+  "translations": {
+    "zh": {
+      "name": "测试",
+      "desc": "该技能作用的简短总结。"
+    },
+    "en": {
+      "name": "Test",
+      "desc": "A short summary of what this skill does."
+    },
+    "ja": {
+      "name": "テスト",
+      "desc": "このスキルが何をするかについての短い要約。"
+    }
+  },
+  "category": "Other",
+  "audit_passed": true
+}
