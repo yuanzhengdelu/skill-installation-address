@@ -4,12 +4,17 @@
     "zh": {
       "name": "Kaizen 持续改进法",
       "desc": "源自精益生产的渐进式项目优化与效率提升方法论。",
-      "full_desc": "每天进步 1%。该技能介绍如何通过 PDCA 循环（计划-执行-检查-处理）来不断优化团队的工作流，减少浪费，通过小步快跑实现项目交付质量的质变。"
+      "full_desc": "每天进步 1%。介绍如何通过 PDCA 循环不断优化协作流程，减少浪费，通过小步快跑实现项目交付质量质变。"
     },
     "en": {
-      "name": "Kaizen 持续改进法",
-      "desc": "Automated summary for kaizen",
-      "full_desc": "Detailed guide for kaizen based on community standards."
+      "name": "Kaizen Methodology",
+      "desc": "Progressive project optimization and efficiency gains inspired by Lean.",
+      "full_desc": "Improve 1% every day. Introduces PDCA cycles to optimize workflows, reduce waste, and achieve quality through small, steady gains."
+    },
+    "ja": {
+      "name": "カイゼン手法",
+      "desc": "リーンの考え方に基づいた漸進的なプロジェクト最適化と効率向上の手法。",
+      "full_desc": "毎日1%の改善。PDCAサイクルを活用してワークフローを最適化し、無駄を減らし、チームの成果を底上げする方法を紹介します。"
     }
   },
   "category": "Planning"

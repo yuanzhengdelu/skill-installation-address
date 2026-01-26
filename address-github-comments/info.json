@@ -3,13 +3,18 @@
   "translations": {
     "zh": {
       "name": "回复 GitHub 评论",
-      "desc": "自动化或辅助回复 GitHub 上的 Issue 和 Pull Request 评论。",
-      "full_desc": "该技能帮助你专业地回应 GitHub 上的反馈。它能分析评论语境，提供礼貌、准确的回复建议，并处理合并请求中的修改建议。非常适合维护开源项目或团队协作，节省沟通成本。"
+      "desc": "自动化或辅助回复 GitHub 上的 Issue 和 PR 评论。",
+      "full_desc": "该技能帮助你专业地回应 GitHub 上的反馈。它能分析评论语境，提供礼貌、准确的回复建议，并处理合并请求中的修改建议。非常适合维护开源项目或团队协作。"
     },
     "en": {
       "name": "Address GitHub Comments",
-      "desc": "Automate or assist in replying to GitHub Issue and Pull Request comments.",
-      "full_desc": "Helps you respond professionally to GitHub feedback. It analyzes comment context to provide polite, accurate reply suggestions and handles change requests in PRs. Perfect for open-source maintainers or team collabs to save communication time."
+      "desc": "Assist in replying to GitHub Issue and PR comments.",
+      "full_desc": "Helps you respond professionally to GitHub feedback. It analyzes comment context to provide polite, accurate reply suggestions and handles change requests in PRs."
+    },
+    "ja": {
+      "name": "GitHub コメントへの対応",
+      "desc": "GitHub上のIssueやPRのコメントへの返信を自動化または支援します。",
+      "full_desc": "GitHubのフィードバックにプロフェッショナルに対応できます。文脈を分析し、適切な返信案を提供して、プルリクエストの処理を効率化します。"
     }
   },
   "category": "Development"

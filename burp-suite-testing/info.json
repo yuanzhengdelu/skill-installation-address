@@ -4,12 +4,17 @@
     "zh": {
       "name": "Burp Suite 实战指南",
       "desc": "熟练使用业界排名的 Web 漏洞扫描与手动拦截工具。",
-      "full_desc": "这是 Web 安全人员的‘瑞士军刀’。该技能教你如何设置代理、拦截数据包、进行自动化重发（Intruder）以及分析加密流量，是每个白帽子必备的高级技能。"
+      "full_desc": "Web 安全人员的‘瑞士军刀’。教你如何拦截数据包、进行自动化重发以及分析加密流量。"
     },
     "en": {
-      "name": "Burp Suite 实战指南",
-      "desc": "Automated standard summary for burp-suite-testing",
-      "full_desc": "Detailed plain-language guide for burp-suite-testing based on community standards."
+      "name": "Burp Suite Practice",
+      "desc": "Master the industry-leading Web vulnerability scanner and interception tool.",
+      "full_desc": "The 'Swiss Army Knife' of security. Learn to intercept packets, use Intruder, and analyze encrypted traffic."
+    },
+    "ja": {
+      "name": "Burp Suite 実践ガイド",
+      "desc": "業界標準のWeb脆弱性スキャナおよび手動代行ツールの熟練した使用方法。",
+      "full_desc": "セキュリティエンジニアの「十徳ナイフ」。パケットのインターセプト、自動再送信、暗号化トラフィックの分析手法を学びます。"
     }
   },
   "category": "Security"

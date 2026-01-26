@@ -3,13 +3,18 @@
   "translations": {
     "zh": {
       "name": "软件架构模式全解析",
-      "desc": "理解单体、微服务、六边形架构以及事件驱动设计的优劣。",
-      "full_desc": "没有完美的架构，只有最适合的架构。该技能系统化地讲解了各类软件架构的设计思想，帮助你在面对新需求时能快速选择出最稳定、最易于扩展的代码蓝图。"
+      "desc": "深入探讨单体、微服务、六边形及事件驱动架构的优劣权衡。",
+      "full_desc": "没有完美的架构，只有最适合的。带你从高层视角洞察软件设计规律，做出理性的架构选型决策。"
     },
     "en": {
-      "name": "软件架构模式全解析",
-      "desc": "Automated summary for software-architecture",
-      "full_desc": "Detailed guide for software-architecture based on community standards."
+      "name": "Software Architecture Patterns",
+      "desc": "In-depth analysis of Monolith, Microservices, Hexagonal, and Event-driven systems.",
+      "full_desc": "No perfect architecture, only trade-offs. Gain high-level insights into design patterns to make informed engineering decisions."
+    },
+    "ja": {
+      "name": "ソフトウェアアーキテクチャ解析",
+      "desc": "モノリス、マイクロサービス、オニオンアーキテクチャなどの利点と欠点を深く考察します。",
+      "full_desc": "常に「トレードオフ」を。システム全体の設計規則を理解し、プロジェクトに最適なアーキテクチャを選択する力を養います。"
     }
   },
   "category": "Development"

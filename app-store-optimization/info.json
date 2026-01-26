@@ -4,12 +4,17 @@
     "zh": {
       "name": "应用商店 SEO (ASO)",
       "desc": "优化移动端应用在 App Store 和 Google Play 的排名。",
-      "full_desc": "想让你的 App 获得更多下载？该技能教你如何优化关键词、标题、副标题以及屏幕截图文案，利用搜索排名机制（SEO）提升 App 的可见度，降低获客成本，让更多用户主动找到你的应用。"
+      "full_desc": "想让你的 App 获得更多下载？教你如何优化关键词、标题、以及屏幕截图文案，通过 SEO 提升 App 可见度，降低获客成本。"
     },
     "en": {
       "name": "App Store Optimization (ASO)",
       "desc": "Optimize mobile app rankings in App Store and Google Play.",
-      "full_desc": "Want more downloads for your App? This skill teaches you how to optimize keywords, titles, subtitles, and screenshot copy to leverage store search algorithms (ASO) for better visibility and lower user acquisition costs."
+      "full_desc": "Want more downloads? Learn to optimize keywords, titles, and text to improve visibility and lower acquisition costs using store SEO mechanics."
+    },
+    "ja": {
+      "name": "アプリストア最適化 (ASO)",
+      "desc": "App StoreおよびGoogle Playでのモバイルアプリのランキングを最適化します。",
+      "full_desc": "アプリのダウンロード数を増やしたいですか？キーワードやタイトルの最適化、SEOの仕組みを利用して露出を高める方法を学びます。"
     }
   },
   "category": "Planning"

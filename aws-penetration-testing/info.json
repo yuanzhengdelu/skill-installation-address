@@ -4,12 +4,17 @@
     "zh": {
       "name": "AWS 云渗透测试",
       "desc": "发现并利用亚马逊云环境中的配置风险和权限漏洞。",
-      "full_desc": "学习如何在 AWS 环境中进行安全评估。涵盖 IAM 权限滥用、S3 存储桶泄露、EC2 元数据利用（SSRF）等实战技术，教你识别云原生的攻击面并保护云基础设施的安全性。"
+      "full_desc": "实战分析 AWS 安全性。涵盖 IAM 权限滥用、S3 存储桶泄露等技术，教你识别云原生的攻击面并进行加固。"
     },
     "en": {
       "name": "AWS Penetration Testing",
-      "desc": "Discover and exploit misconfigurations and permission flaws in AWS cloud environments.",
-      "full_desc": "Learn to conduct security assessments in AWS. Covers IAM privilege escalation, S3 bucket enumeration, and EC2 metadata (SSRF) exploitation, helping you identify and secure cloud-native attack surfaces."
+      "desc": "Discover and exploit misconfigurations and permission flaws in AWS environments.",
+      "full_desc": "Hands-on AWS security assessment. Covers IAM abuse, S3 leakage, and metadata exploitation to secure cloud infrastructure."
+    },
+    "ja": {
+      "name": "AWS 侵入テスト",
+      "desc": "AWSクラウド環境における設定ミスや権限の脆弱性を発見し、利用します。",
+      "full_desc": "AWSのセキュリティ評価を実践します。IAMの権限乱用やS3バケットの漏洩対策など、クラウド特有の攻撃手法と防御を学びます。"
     }
   },
   "category": "Security"

@@ -4,12 +4,17 @@
     "zh": {
       "name": "HTML 注入漏洞挖掘",
       "desc": "在网页中发现并利用非跨站脚本（XSS）的结构化注入漏洞。",
-      "full_desc": "不仅仅是 XSS。该技能教你如何利用输入过滤不严，向页面注入恶意的 HTML 标签来篡改页面内容、钓鱼或诱导用户点击，是深入学习前端安全的基础。"
+      "full_desc": "不仅仅是 XSS。教你如何利用输入过滤不严，注入恶意的 HTML 标签来篡改页面内容、钓鱼或诱导点击。"
     },
     "en": {
-      "name": "HTML 注入漏洞挖掘",
-      "desc": "Automated summary for html-injection-testing",
-      "full_desc": "Detailed guide for html-injection-testing based on community standards."
+      "name": "HTML Injection Testing",
+      "desc": "Discover and exploit structured injection vulnerabilities (non-XSS).",
+      "full_desc": "Not just XSS. Learn to inject malicious tags due to poor sanitization to deface pages, phish users, or redirect clicks."
+    },
+    "ja": {
+      "name": "HTML インジェクションテスト",
+      "desc": "XSS以外のHTML構造化インジェクションの脆弱性を発見し、利用します。",
+      "full_desc": "XSSだけではありません。サニタイズの不備を突き、悪意のあるHTMLタグを挿入してページを改ざんしたり、フィッシングを行う手法を学びます。"
     }
   },
   "category": "Security"

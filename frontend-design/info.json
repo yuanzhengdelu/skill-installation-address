@@ -4,12 +4,17 @@
     "zh": {
       "name": "前沿前端视觉设计",
       "desc": "掌握现代网页排版、动效和响应式布局的顶级视觉方案。",
-      "full_desc": "让你的页面不仅好用而且‘好看’。该技能分享了当下最流行的磨砂玻璃效果、Neumorphism 风格以及 CSS 自定义属性的高级技巧，提升你的界面层级感。"
+      "full_desc": "让页面不仅好用而且好看。分享了磨砂玻璃效果、样式定义以及 CSS 高级技巧，提升界面层级感。"
     },
     "en": {
-      "name": "前沿前端视觉设计",
-      "desc": "Automated standard summary for frontend-design",
-      "full_desc": "Detailed plain-language guide for frontend-design based on community standards."
+      "name": "Frontend Visual Design",
+      "desc": "Master top visual schemes for modern web layout, motion, and response.",
+      "full_desc": "Make pages look as good as they work. Share glassmorphism, advanced CSS vars, and layout techniques to elevate your UI hierarchy."
+    },
+    "ja": {
+      "name": "最先端フロントエンドデザイン",
+      "desc": "モダンなWebレイアウト、アニメーション、レスポンシブデザインの視覚的手法をマスターします。",
+      "full_desc": "使いやすく、美しいページを。グラスモーフィズムや高度なCSSテクニックを使用して、インターフェースの質感を高める方法を共有します。"
     }
   },
   "category": "UI/UX"

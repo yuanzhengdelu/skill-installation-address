@@ -4,12 +4,17 @@
     "zh": {
       "name": "云原生渗透测试",
       "desc": "针对多云环境（AWS, Azure, GCP）的安全审计与漏洞利用。",
-      "full_desc": "随着企业上云，安全战场也转移了。该技能汇总了多个云平台的常见配置错误，教你如何横向移动、跨租户攻击以及利用云服务商的高级 API 权限。"
+      "full_desc": "汇总了多个云平台的常见配置错误，教你如何横向移动、跨租户攻击以及利用高级 API 权限。"
     },
     "en": {
-      "name": "云原生渗透测试",
-      "desc": "Automated standard summary for cloud-penetration-testing",
-      "full_desc": "Detailed plain-language guide for cloud-penetration-testing based on community standards."
+      "name": "Cloud Penetration Testing",
+      "desc": "Security auditing and exploitation for multi-cloud environments (AWS, Azure, GCP).",
+      "full_desc": "Summarizes cloud misconfigurations, teaching lateral movement, cross-tenant attacks, and advanced API exploitation."
+    },
+    "ja": {
+      "name": "クラウド侵入テスト",
+      "desc": "マルチクラウド環境（AWS, Azure, GCP）におけるセキュリティ監査と脆弱性利用。",
+      "full_desc": "主要なクラウドサービスの設定ミス、水平移動、テナント間攻撃、高度なAPI権限の利用手法を網羅します。"
     }
   },
   "category": "Security"

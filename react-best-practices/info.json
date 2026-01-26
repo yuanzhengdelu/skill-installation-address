@@ -3,13 +3,18 @@
   "translations": {
     "zh": {
       "name": "React 企业级开发实践",
-      "desc": "掌握 React Hooks 高级用法、状态管理优化和服务器组件（RSC）。",
-      "full_desc": "不仅是会用，而是用得好。该技能深入探讨了 React 18/19 的新特性，教你如何避免冗余渲染、如何架构大型项目结构，以及如何编写可测试、易扩展的 UI 组件。"
+      "desc": "掌握大型 React 项目的架构模式、Hooks 高阶技巧和性能优化。",
+      "full_desc": "告别混乱组件。教你如何组织状态管理、编写可复用的逻辑（Hooks）并提升渲染效率。"
     },
     "en": {
-      "name": "React 企业级开发实践",
-      "desc": "Automated summary for react-best-practices",
-      "full_desc": "Detailed guide for react-best-practices based on community standards."
+      "name": "React Best Practices",
+      "desc": "Scale React apps with better architecture, advanced Hooks, and perf optimization.",
+      "full_desc": "Stop component mess. Learn state management patterns, custom Hooks, and rendering optimizations for high-scale apps."
+    },
+    "ja": {
+      "name": "React ベストプラクティス",
+      "desc": "大規模Reactプロジェクトのアーキテクチャ、Hooksの応用技術、パフォーマンス最適化を習得します。",
+      "full_desc": "保守性の高いコンポーネント設計。状態管理、カスタムHooks、レンダリング最適化の実践手法を学びます。"
     }
   },
   "category": "Development"

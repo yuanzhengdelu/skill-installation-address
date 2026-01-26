@@ -4,12 +4,17 @@
     "zh": {
       "name": "Claude 编程协作指南",
       "desc": "深入掌握如何让 Claude (Anthropic) 帮你写出更高质量的代码。",
-      "full_desc": "不仅仅是问答。该技能教你如何给 Claude 提供上下文、如何进行迭代式重构，以及如何利用它的超长上下文窗口来分析整个项目文件库。"
+      "full_desc": "不仅仅是问答。教你如何提供上下文、进行迭代式重构，以及利用长上下文窗口分析项目。"
     },
     "en": {
-      "name": "Claude 编程协作指南",
-      "desc": "Automated standard summary for claude-code-guide",
-      "full_desc": "Detailed plain-language guide for claude-code-guide based on community standards."
+      "name": "Claude Coding Guide",
+      "desc": "Master how to use Claude to write higher-quality software and documentation.",
+      "full_desc": "Beyond chat. Learn to provide context, perform iterative refactoring, and analyze whole projects with long contexts."
+    },
+    "ja": {
+      "name": "Claude プログラミングガイド",
+      "desc": "Claude (Anthropic) を活用して高品質なコードを書くための方法を深く理解します。",
+      "full_desc": "単なる対話ではありません。コンテキストの提供、リファクタリング、大規模なプロジェクト分析の手法を学びます。"
     }
   },
   "category": "Development"

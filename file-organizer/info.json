@@ -4,12 +4,17 @@
     "zh": {
       "name": "文件自动整理专家",
       "desc": "利用智能脚本自动分类、重命名和归档杂乱的本地资产。",
-      "full_desc": "拯救你的桌面。该技能教你如何编写跨平台的 Python 或 Node 脚本，根据后缀、日期或内容摘要自动移动文件，让你的数字生活告别混乱。"
+      "full_desc": "拯救你的桌面。教你如何编写跨平台的 Python 或 Node 脚本，根据后缀、日期或内容摘要自动移动文件，让数字生活告别混乱。"
     },
     "en": {
-      "name": "文件自动整理专家",
-      "desc": "Automated standard summary for file-organizer",
-      "full_desc": "Detailed plain-language guide for file-organizer based on community standards."
+      "name": "File Organizer Expert",
+      "desc": "Automate classification, renaming, and archiving of messy local assets.",
+      "full_desc": "Save your desktop. Learn to write cross-platform Python or Node scripts to move files by type, date, or content summaries automatically."
+    },
+    "ja": {
+      "name": "ファイル自動整理エキスパート",
+      "desc": "インテリジェントなスクリプトを使用して、乱雑なローカルアセットを自動的に分類、名前変更、アーカイブします。",
+      "full_desc": "デスクトップを救いましょう。拡張子や日付、内容に基づいてファイルを自動移動するPythonまたはNodeスクリプトの作成方法を学びます。"
     }
   },
   "category": "Automation"

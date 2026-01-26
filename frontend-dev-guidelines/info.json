@@ -4,12 +4,17 @@
     "zh": {
       "name": "前端工程化规范",
       "desc": "现代 React/Vue 项目的目录结构、代码风格和类型检查标准。",
-      "full_desc": "为团队协作量身打造。该技能集成了 ESLint、Prettier 以及 TypeScript 的最佳实践，教你如何编写具有强类型保护和易于维护的大型前端项目。"
+      "full_desc": "为团队协作打造。集成了 ESLint、Prettier 以及 TypeScript 最佳实践，教你如何编写易于维护的大型项目。"
     },
     "en": {
-      "name": "前端工程化规范",
-      "desc": "Automated standard summary for frontend-dev-guidelines",
-      "full_desc": "Detailed plain-language guide for frontend-dev-guidelines based on community standards."
+      "name": "Frontend Dev Guidelines",
+      "desc": "Modern React/Vue project structures, style guides, and typing standards.",
+      "full_desc": "Built for teams. Integrates ESLint, Prettier, and TS best practices to write maintainable large-scale frontend applications."
+    },
+    "ja": {
+      "name": "フロントエンド工程化規範",
+      "desc": "モダンなReact/Vueプロジェクトのディレクトリ構造、コードスタイル、型チェックの標準。",
+      "full_desc": "チーム開発向け。ESLint、Prettier、TypeScriptのベストプラクティスを解説し、メンテナンス性の高い大規模開発を支援します。"
     }
   },
   "category": "Development"

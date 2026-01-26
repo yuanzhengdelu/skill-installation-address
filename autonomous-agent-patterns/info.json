@@ -4,12 +4,17 @@
     "zh": {
       "name": "自主智能体设计模式",
       "desc": "开发能够独立根据任务进行规划和执行的 AI 智能体架构。",
-      "full_desc": "深入了解 AutoGPT、BabyAGI 等系统的底层逻辑。该技能介绍了如自主规划（Planning）、记忆管理（Memory）和工具调用（Tool Use）等核心设计模式，帮助你构建能够像人类一样思考并执行复杂任务的智能机器人。"
+      "full_desc": "深入了解如自主规划、记忆管理和工具调用等核心设计模式，帮助你构建能够像人类一样执行复杂任务的智能机器人。"
     },
     "en": {
       "name": "Autonomous Agent Patterns",
       "desc": "Developing AI agent architectures that plan and execute tasks independently.",
-      "full_desc": "Dive deep into the logic behind systems like AutoGPT. This skill covers core design patterns like self-reflection, memory management, and tool-use, enabling you to build AI agents capable of planning and executing complex tasks without constant human input."
+      "full_desc": "Covers core design patterns like planning, memory management, and tool-use, enabling you to build AI agents capable of complex tasks."
+    },
+    "ja": {
+      "name": "自律型エージェントパターン",
+      "desc": "タスクに従って独立して計画・実行できるAIエージェントアーキテクチャ。 ",
+      "full_desc": "自律的な計画、メモリ管理、ツール呼び出しなどの設計パターンを学び、複雑なタスクを遂行できるAIエージェントの構築を支援します。"
     }
   },
   "category": "Development"

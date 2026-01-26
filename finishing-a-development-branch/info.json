@@ -2,14 +2,19 @@
   "id": "finishing-a-development-branch",
   "translations": {
     "zh": {
-      "name": "分支合并进阶指南",
+      "name": "分支收尾进阶指南",
       "desc": "在 Git 工作流中规范化地收尾、测试并合并开发分支。",
-      "full_desc": "不要在合并时毁了主仓库。该技能涵盖了 Rebase vs Merge 的选择、冲突解决策略以及在合并前必须执行的自动化检查清单，确保主分支永远是稳定的稳定的。"
+      "full_desc": "不要在合并时毁了仓库。涵盖了 Rebase vs Merge 选择以及在合并前必须执行的自动化检查清单。"
     },
     "en": {
-      "name": "分支合并进阶指南",
-      "desc": "Automated standard summary for finishing-a-development-branch",
-      "full_desc": "Detailed plain-language guide for finishing-a-development-branch based on community standards."
+      "name": "Finishing a Dev Branch",
+      "desc": "Normalized procedures to close, test, and merge dev branches in Git.",
+      "full_desc": "Don't break the repo during merge. Covers Rebase vs. Merge choices and must-run automated checklists before integrating code."
+    },
+    "ja": {
+      "name": "開発ブランチの最終処理",
+      "desc": "Gitワークフローにおいて、開発ブランチを規準に従って終了、テスト、マージします。",
+      "full_desc": "マージでリポジトリを壊さないでください。RebaseとMergeの選択、マージ前に実行すべきチェックリストを網羅しています。"
     }
   },
   "category": "Development"

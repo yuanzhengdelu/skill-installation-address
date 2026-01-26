@@ -3,13 +3,18 @@
   "translations": {
     "zh": {
       "name": "目录穿越漏洞全解",
-      "desc": "测试并利用系统文件路径读取漏洞，获取服务器敏感敏感数据。",
-      "full_desc": "有时候一个 ../ 就能拿走所有源码。该技能揭示了路径遍历漏洞的多种变种，教你如何绕过过滤机制读取服务器里的 /etc/passwd 或配置文件，是 Web 安全的基础课。"
+      "desc": "测试并利用系统文件路径读取漏洞，获取服务器敏感数据。",
+      "full_desc": "一个 ../ 拿走所有源码。揭示了路径遍历漏洞的多种变种，教你如何绕过过滤读取服务器敏感配置文件。"
     },
     "en": {
-      "name": "目录穿越漏洞全解",
-      "desc": "Automated standard summary for file-path-traversal",
-      "full_desc": "Detailed plain-language guide for file-path-traversal based on community standards."
+      "name": "File Path Traversal",
+      "desc": "Test and exploit file path vulnerabilities to acquire sensitive server data.",
+      "full_desc": "One '../' could lose your source code. Explains path traversal variants and how to bypass filters to read sensitive server config files."
+    },
+    "ja": {
+      "name": "ディレクトリトラバーサル完全解説",
+      "desc": "ファイルパストラバーサルの脆弱性をテスト・利用し、サーバーの機密データを取得します。",
+      "full_desc": "「../」一つでソースコードを奪われます。フィルタリングをバイパスしてサーバー内の機密ファイルを読み取る手法を学びます。"
     }
   },
   "category": "Security"

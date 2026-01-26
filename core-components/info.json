@@ -4,12 +4,17 @@
     "zh": {
       "name": "核心组件库建设",
       "desc": "打造企业级、可重用的 UI 组件库与基础架构。",
-      "full_desc": "告别面条代码。该技能教你如何通过原子设计（Atomic Design）拆解 UI，构建出一套高内聚、低耦合的核心库，让你的项目开发速度提升数倍。"
+      "full_desc": "告别面条代码。教你如何通过原子设计拆解 UI，构建出一套高内聚、低耦合的核心组件库。"
     },
     "en": {
-      "name": "核心组件库建设",
-      "desc": "Automated standard summary for core-components",
-      "full_desc": "Detailed plain-language guide for core-components based on community standards."
+      "name": "Core Components Builder",
+      "desc": "Building enterprise-grade, reusable UI component libraries and infra.",
+      "full_desc": "Stop spaghetti code. Learn to decompose UI via Atomic Design and build a cohesive, decoupled component library."
+    },
+    "ja": {
+      "name": "コアコンポーネントライブラリ構築",
+      "desc": "エンタープライズ向けの再利用可能なUIコンポーネントライブラリと基盤を構築します。",
+      "full_desc": "スパゲッティコードからの脱却。アトミックデザインを用いてUIを分解し、疎結合で保守性の高いライブラリを作成します。"
     }
   },
   "category": "Development"

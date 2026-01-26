@@ -4,12 +4,17 @@
     "zh": {
       "name": "创意头脑风暴",
       "desc": "辅助进行产品创意、项目起名和复杂问题的发散性思考。",
-      "full_desc": "灵感枯竭了？该技能提供了多种创意思维框架（如 SCAMPER 甚至逆向思维），帮助你快速生成大量点子。无论是给项目起个酷名字，还是寻找产品的下一个突破点，它都是你最好的数字创意伙伴。"
+      "full_desc": "提供多种创意思维框架（如 SCAMPER），帮助你快速生成大量点子，寻找产品的下一个突破点。"
     },
     "en": {
       "name": "Brainstorming",
-      "desc": "Assisted creative thinking for product ideas, naming, and complex problem-solving.",
-      "full_desc": "Running out of ideas? This skill provides various creative thinking frameworks (like SCAMPER) to help you generate sparks. Whether it's picking a cool project name or finding the next big feature, it's your best digital creative partner."
+      "desc": "Assisted creative thinking for product ideas, naming, and problem-solving.",
+      "full_desc": "Provides creative frameworks like SCAMPER to generate massive ideas and find your next product breakthrough."
+    },
+    "ja": {
+      "name": "ブレインストーミング",
+      "desc": "製品のアイデア出し、プロジェクトの命名、複雑な問題の発散的思考を支援します。",
+      "full_desc": "SCAMPERなどの思考フレームワークを提供し、迅速に大量のアイデアを生み出し、解決策を見つける手助けをします。"
     }
   },
   "category": "Planning"

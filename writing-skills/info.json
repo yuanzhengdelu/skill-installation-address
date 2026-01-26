@@ -1,0 +1,21 @@
+{
+  "id": "writing-skills",
+  "translations": {
+    "zh": {
+      "name": "贡献新的技能包",
+      "desc": "手把手教你如何编写、测试并向社区提交新的技能（Skill）。",
+      "full_desc": "参与开源建设。教你本项目的结构、如何编写 SKILL.md 以及如何自动生成多语言元数据。"
+    },
+    "en": {
+      "name": "Contributing New Skills",
+      "desc": "Step-by-step guide to writing, testing, and submitting new Skills to the community.",
+      "full_desc": "Join the open-source effort. Learn the project structure, SKILL.md rules, and how to automate metadata generation."
+    },
+    "ja": {
+      "name": "新規スキルの作成案内",
+      "desc": "新しいスキルを作成、テストし、コミュニティへ提供するためのステップバイステップガイド。",
+      "full_desc": "プロジェクトへの貢献。SKILL.mdの記述、プロジェクト構造、多言語メタデータの自動生成プロセスを学びます。"
+    }
+  },
+  "category": "Development"
+}

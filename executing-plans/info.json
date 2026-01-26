@@ -2,14 +2,19 @@
   "id": "executing-plans",
   "translations": {
     "zh": {
-      "name": "项目执行力强化",
+      "name": "计划执行力强化",
       "desc": "将复杂的计划落地为实际代码和产品的高效执行策略。",
-      "full_desc": "计划很美好，落地很痛苦。该技能聚焦于‘反馈循环’，教你如何快速响应变化，解决执行过程中的技术卡点，确保项目能雷打不动地按时上线。"
+      "full_desc": "计划很美好，落地很痛苦。该技能聚焦于‘反馈循环’，教你如何快速响应变化，解决技术卡点，确保项目能按时上线。"
     },
     "en": {
-      "name": "项目执行力强化",
-      "desc": "Automated standard summary for executing-plans",
-      "full_desc": "Detailed plain-language guide for executing-plans based on community standards."
+      "name": "Executing Plans",
+      "desc": "Efficient strategies to land complex plans into actual code and products.",
+      "full_desc": "Execution is hard. This skill focuses on the feedback loop, helping you respond to changes and overcome technical roadblocks to ensure on-time delivery."
+    },
+    "ja": {
+      "name": "計画実行力の強化",
+      "desc": "複雑な計画を実際のコードや製品に落とし込むための効率的な実行戦略。",
+      "full_desc": "計画を絵に描いた餅にしないでください。フィードバックループに焦点を当て、変化に迅速に対応し、プロジェクトを期日通りに完了させる方法を学びます。"
     }
   },
   "category": "Planning"

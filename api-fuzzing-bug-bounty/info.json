@@ -4,12 +4,17 @@
     "zh": {
       "name": "API 模糊测试与漏洞赏金",
       "desc": "针对 Web API 进行漏洞挖掘和 Fuzzing 测试的技巧。",
-      "full_desc": "专注于 API 安全性。该技能指导你如何使用 ffuf、wfuzz 等工具对 API 接口进行暴力枚举、注入测试和未授权访问检查，旨在帮助安全研究员在漏洞赏金计划中发现高质量的逻辑漏洞。"
+      "full_desc": "专注于 API 安全性。指导你如何使用 ffuf、wfuzz 等工具对 API 接口进行暴力枚举、注入测试和未授权访问检查，协助发现逻辑漏洞。"
     },
     "en": {
       "name": "API Fuzzing & Bug Bounty",
       "desc": "Vulnerability research and Fuzzing techniques targeting Web APIs.",
-      "full_desc": "Focused on API security. This skill guides you through using tools like ffuf or wfuzz to perform brute-force enumeration, injection testing, and unauthorized access checks to find high-impact logic bugs in bug bounty programs."
+      "full_desc": "Focused on API security. Guides you through using tools like ffuf or wfuzz to perform brute-force enumeration and injection testing to find high-impact bugs."
+    },
+    "ja": {
+      "name": "API ファジングとバグバウンティ",
+      "desc": "Web APIを対象とした脆弱性調査とファジングテストのテクニック。",
+      "full_desc": "APIセキュリティに焦点を当てます。ffufやwfuzzなどのツールを使用して、APIの脆弱性を発見し、バグバウンティプログラムでの成果を最大化する方法を学びます。"
     }
   },
   "category": "Security"

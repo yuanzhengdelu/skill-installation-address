@@ -4,12 +4,17 @@
     "zh": {
       "name": "极简项目规划",
       "desc": "去除冗余，只保留核心任务的精益项目管理方法。",
-      "full_desc": "别让复杂的 Gantt 图拖慢进度。该技能教你如何定义 MVP（最小可行性产品），通过简洁的看板和优先级清单，让团队始终聚焦于最有价值的工作。"
+      "full_desc": "别让复杂的 Gantt 图拖慢进度。教你定义 MVP，通过简洁的看板让团队始终聚焦于最有价值的工作。"
     },
     "en": {
-      "name": "极简项目规划",
-      "desc": "Automated standard summary for concise-planning",
-      "full_desc": "Detailed plain-language guide for concise-planning based on community standards."
+      "name": "Concise Planning",
+      "desc": "A lean management methodology focused on core tasks and minimal redundancy.",
+      "full_desc": "Keep it lean. Learn to define an MVP and use simple boards to keep the team focused on high-value output."
+    },
+    "ja": {
+      "name": "簡潔なプロジェクト計画",
+      "desc": "冗長さを排除し、中核タスクのみを残すリーンなプロジェクト管理手法。",
+      "full_desc": "複雑なガントチャートに惑わされないでください。MVPを定義し、シンプルな看板を用いてチームの焦点を維持する方法を提言します。"
     }
   },
   "category": "Planning"

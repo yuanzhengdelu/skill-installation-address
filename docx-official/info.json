@@ -4,12 +4,17 @@
     "zh": {
       "name": "Word 官方规范处理",
       "desc": "自动化生成符合标准格式的 Word (DOCX) 办公文档。",
-      "full_desc": "还在手动排版？该技能教你通过代码自动处理文档标题、目录、表格和页脚，确保生成的所有文件都符合最严格的商务或官方法务排版要求。"
+      "full_desc": "还在手动排版？教你通过代码自动处理文档标题、目录、表格和页脚，确保生成的所有文件符合商务或官方法务排版要求。"
     },
     "en": {
-      "name": "Word 官方规范处理",
-      "desc": "Automated standard summary for docx-official",
-      "full_desc": "Detailed plain-language guide for docx-official based on community standards."
+      "name": "DOCX Official Handling",
+      "desc": "Automated generation of standard-formatted Word documents.",
+      "full_desc": "Still formatting manually? Automate titles, table of contents, and footers via code to ensure compliance with business or legal formatting standards."
+    },
+    "ja": {
+      "name": "Word 公式規範処理",
+      "desc": "標準フォーマットに準拠したWord (DOCX) ドキュメントの自動生成。",
+      "full_desc": "手動でのレイアウトはもう不要です。コードを介してディレクトリ、見出し、ページ番号を自動処理し、ビジネスや法務基準に沿った文書を作成します。"
     }
   },
   "category": "Other"

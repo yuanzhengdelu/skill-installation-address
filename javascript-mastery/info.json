@@ -4,12 +4,17 @@
     "zh": {
       "name": "JavaScript 深度进阶",
       "desc": "掌握 JS 引擎底层原理、闭包、原型链及高性能异步编程。",
-      "full_desc": "别只停留在语法表面。该技能带你剖析 V8 引擎工作原理，深入理解宏任务与微任务队列，并通过实战案例教你如何优化长列表渲染和内存泄漏问题。"
+      "full_desc": "别只停留在语法表面。剖析 V8 引擎工作原理，理解任务队列，并通过案例优化长列表渲染和内存泄漏。"
     },
     "en": {
-      "name": "JavaScript 深度进阶",
-      "desc": "Automated summary for javascript-mastery",
-      "full_desc": "Detailed guide for javascript-mastery based on community standards."
+      "name": "JavaScript Mastery",
+      "desc": "Master JS engine internals, closures, prototypes, and high-perf async coding.",
+      "full_desc": "Dive deep into V8, event loops, and memory management. Learn to optimize rendering and fix leaks with real-world cases."
+    },
+    "ja": {
+      "name": "JavaScript マスタリー",
+      "desc": "JSエンジンの内部原理、クロージャ、プロトタイプ、非同期プログラミングを習得します。",
+      "full_desc": "構文だけでなく、V8エンジンの仕組み、イベントループ、メモリ管理を理解し、パフォーマンスの高いコードを書く力を養います。"
     }
   },
   "category": "Development"

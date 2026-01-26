@@ -4,12 +4,17 @@
     "zh": {
       "name": "道德黑客实战方法论",
       "desc": "从信息搜寻到报告编写的一整套专业渗透测试流程。",
-      "full_desc": "成为‘正规军’的第一步。该技能不只是教你工具，更重要是教你渗透的逻辑：从踩点、扫描、利用到权限提升，最后如何写出一份让客户心服口服的安全报告。"
+      "full_desc": "成为‘正规军’的第一步。不只是教你工具，更是教你渗透的逻辑：从踩点、扫描、利用到权限提升，最后如何写出一份让客户满意的报告。"
     },
     "en": {
-      "name": "道德黑客实战方法论",
-      "desc": "Automated standard summary for ethical-hacking-methodology",
-      "full_desc": "Detailed plain-language guide for ethical-hacking-methodology based on community standards."
+      "name": "Ethical Hacking Methodology",
+      "desc": "A professional penetration testing process from recon to report writing.",
+      "full_desc": "Become a pro. Teaches the logical flow of hacking: footprinting, scanning, exploitation, and privilege escalation, ending with a professional security report."
+    },
+    "ja": {
+      "name": "倫理的ハッキング手法",
+      "desc": "情報収集から報告書作成までのプロフェッショナルな侵入テスト工程。",
+      "full_desc": "「正規軍」への第一歩。単なるツール紹介ではなく、偵察、スキャン、権限昇格といったハッキングの論理と、信頼されるレポートの書き方を学びます。"
     }
   },
   "category": "Security"

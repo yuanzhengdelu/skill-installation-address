@@ -4,12 +4,17 @@
     "zh": {
       "name": "IDOR 越权漏洞实战",
       "desc": "探究由于对象引用不当导致的水平越权和垂直越权漏洞。",
-      "full_desc": "‘我能看别人的订单吗？’。该技能深入剖析了 IDOR 的原理，教你通过篡改 ID 参数或令牌来访问非授权数据，并提供开发者如何防御这种高风险逻辑漏洞的方法。"
+      "full_desc": "‘我能看别人的订单吗？’。深入剖析 IDOR 原理，教你通过篡改 ID 参数或令牌访问非授权数据，并提供防御建议。"
     },
     "en": {
-      "name": "IDOR 越权漏洞实战",
-      "desc": "Automated summary for idor-testing",
-      "full_desc": "Detailed guide for idor-testing based on community standards."
+      "name": "IDOR Testing Practice",
+      "desc": "Explore horizontal and vertical privilege escalation from broken object-level authorization.",
+      "full_desc": "Can I see other's orders? Deep dive into IDOR, teaching you to manipulate IDs or tokens to access private data, with mitigation tips."
+    },
+    "ja": {
+      "name": "IDOR 認可制御の脆弱性テスト",
+      "desc": "オブジェクト参照の不備による水平的・垂直的権限昇格の脆弱性を調査します。",
+      "full_desc": "「他人のデータが見えるか？」IDパラメータやトークンを改ざんして非認可データにアクセスする手法と、その防御策を詳しく解説します。"
     }
   },
   "category": "Security"

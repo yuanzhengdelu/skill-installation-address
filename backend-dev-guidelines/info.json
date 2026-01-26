@@ -4,12 +4,17 @@
     "zh": {
       "name": "后端开发最佳实践",
       "desc": "高质量后端架构、API 设计和 API 文档编写规范。",
-      "full_desc": "不仅是写代码，而是写出优秀的系统。该技能涵盖了 RESTful API 设计、分布式系统一致性、数据库索引优化以及错误处理标准。它是你从普通开发者成长为架构师的必经之路。"
+      "full_desc": "不仅是写代码，而是写出优秀的系统。涵盖了 RESTful API 设计、数据库索引优化以及错误处理标准。"
     },
     "en": {
       "name": "Backend Dev Guidelines",
-      "desc": "Standards for high-quality backend architecture, API design, and documentation.",
-      "full_desc": "It's not just about coding; it's about building great systems. This skill covers RESTful API design, database index optimization, distributed consistency, and error handling standards to help you grow from a developer into an architect."
+      "desc": "Standards for high-quality backend architecture and API design.",
+      "full_desc": "Beyond coding: building resilient systems. Covers RESTful API design, database indexing, and error handling standards."
+    },
+    "ja": {
+      "name": "バックエンド開発ガイドライン",
+      "desc": "高品質なバックエンドアーキテクチャ、API設計、ドキュメント作成の規範。",
+      "full_desc": "単なるコーディングではなく、優れたシステムの構築。RESTful API設計、DB最適化、エラー処理の標準を網罗します。"
     }
   },
   "category": "Development"

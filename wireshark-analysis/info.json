@@ -4,12 +4,17 @@
     "zh": {
       "name": "Wireshark 流量审计专家",
       "desc": "捕获和解码网络数据包，进行深层协议分析与安全威胁排查。",
-      "full_desc": "数据包从来不说谎。该技能教你如何设置复杂的显示过滤器、如何解密 SSL/TLS 流量以及如何识别异常的网络扫描特征，是网络医生和安全审计者的金睛火眼。"
+      "full_desc": "数据包不说谎。教你设置过滤器、解密 SSL/TLS 流量以及识别异常网络行为。"
     },
     "en": {
-      "name": "Wireshark 流量审计专家",
-      "desc": "Automated summary for wireshark-analysis",
-      "full_desc": "Detailed guide for wireshark-analysis based on community standards."
+      "name": "Wireshark Traffic Expert",
+      "desc": "Capture and decode packets for deep protocol analysis and security auditing.",
+      "full_desc": "Packets don't lie. Learn to set advanced filters, decrypt SSL/TLS, and identify malicious network patterns."
+    },
+    "ja": {
+      "name": "Wireshark トラフィック分析",
+      "desc": "ネットワークパケットをキャプチャ・解析し、深層プロトコル分析や脅威の特定を行います。",
+      "full_desc": "パケットは嘘をつきません。高度なフィルタ、SSL解読、異常な通信パターンの識別方法をプロの視点から学びます。"
     }
   },
   "category": "Security"

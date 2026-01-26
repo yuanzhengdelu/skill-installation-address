@@ -3,13 +3,18 @@
   "translations": {
     "zh": {
       "name": "SQL 注入全实战",
-      "desc": "深入掌握手工与自动化的 SQL 注入挖掘、报错显现与数据获取。",
-      "full_desc": "Web 安全的老牌霸主。该技能教你如何利用单引号测试漏洞，通过 Union、时延或布尔盲注提取数据库敏感信息，并向开发者展示如何通过参数化查询彻底根治。"
+      "desc": "学习挖掘并利用数据库注入漏洞，提取敏感数据并绕过防御。",
+      "full_desc": "Web 安全的老牌霸主。教你如何识别注入点、利用报错或盲注提取数据库，并编写加固建议。"
     },
     "en": {
-      "name": "SQL 注入全实战",
-      "desc": "Automated summary for sql-injection-testing",
-      "full_desc": "Detailed guide for sql-injection-testing based on community standards."
+      "name": "SQL Injection Testing",
+      "desc": "Discover and exploit DB injection flaws to extract sensitive data and bypass security.",
+      "full_desc": "The classic Web vulnerability. Learn to identify injection points and use blind/error-based techniques to pivot to database access."
+    },
+    "ja": {
+      "name": "SQL インジェクションテスト",
+      "desc": "DBインジェクションの脆弱性を発見・利用し、機密データの抽出や認証回避を実践します。",
+      "full_desc": "Webセキュリティの王道。インジェクションポイントの特定、ブラインド・インジェクションなどの高度な手法を学びます。"
     }
   },
   "category": "Security"

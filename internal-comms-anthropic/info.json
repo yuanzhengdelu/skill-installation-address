@@ -4,12 +4,17 @@
     "zh": {
       "name": "高层协作沟通术 (Anthropic版)",
       "desc": "学习 Anthropic 企业级协作中使用的专业、简洁、透明的沟通模板。",
-      "full_desc": "不仅仅是聊天。该技能基于硅谷顶级 AI 公司的内部沟通逻辑，教你如何撰写清晰的周报、项目同步文档以及如何进行高效的异步协作，提升职业影响力。"
+      "full_desc": "基于技术大厂的内部沟通逻辑，教你如何撰写清晰的项目同步文档以及高效异步协作，提升职场影响力。"
     },
     "en": {
-      "name": "高层协作沟通术 (Anthropic版)",
-      "desc": "Automated summary for internal-comms-anthropic",
-      "full_desc": "Detailed guide for internal-comms-anthropic based on community standards."
+      "name": "Professional Comms (Anthropic)",
+      "desc": "Learn professional, concise, and transparent templates used at Anthropic.",
+      "full_desc": "Based on tech giant comms: write clear project syncs and master async collaboration to boost your professional impact."
+    },
+    "ja": {
+      "name": "プロフェッショナルなコミュニケーション (Anthropic)",
+      "desc": "Anthropicで使用されている簡潔で透明性の高いコミュニケーションテンプレートを学びます。",
+      "full_desc": "トップ企業の内部論理に基づき、明確な進捗報告や非同期作業のコツを学び、ビジネスにおける影響力を高めます。"
     }
   },
   "category": "Planning"

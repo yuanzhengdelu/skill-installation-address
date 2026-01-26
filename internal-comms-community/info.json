@@ -1,0 +1,21 @@
+{
+  "id": "internal-comms-community",
+  "translations": {
+    "zh": {
+      "name": "internal comms community",
+      "desc": "自动化生成的技能摘要。",
+      "full_desc": "该技能正在等待详细的元数据更新，目前提供标准的功能集支持。"
+    },
+    "en": {
+      "name": "internal-comms-community",
+      "desc": "Automated specific summary.",
+      "full_desc": "This skill provides a set of automated actions based on its ID."
+    },
+    "ja": {
+      "name": "internal-comms-community",
+      "desc": "自動生成された概要。",
+      "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
+    }
+  },
+  "category": "Other"
+}

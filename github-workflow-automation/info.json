@@ -3,13 +3,18 @@
   "translations": {
     "zh": {
       "name": "GitHub Actions 自动化大师",
-      "desc": "使用 GitHub 自带的工作流引擎实现 CI/CD、自动部署和 ISSUE 管理。",
-      "full_desc": "让你的仓库‘活’起来。该技能教你如何编写 .yml 脚本，在每次提交后自动运行测试、检查代码格式并自动发布版本，彻底从繁琐的手动部署中解放。"
+      "desc": "使用 GitHub 引擎实现 CI/CD、自动部署和 ISSUE 管理。",
+      "full_desc": "让仓库‘活’起来。教你编写 .yml 脚本，在提交后自动运行测试、检查格式并发布版本，释放双手。"
     },
     "en": {
-      "name": "GitHub Actions 自动化大师",
-      "desc": "Automated summary for github-workflow-automation",
-      "full_desc": "Detailed guide for github-workflow-automation based on community standards."
+      "name": "GitHub Workflow Automation",
+      "desc": "Using GitHub Actions for CI/CD, auto-deployment, and Issue management.",
+      "full_desc": "Bring your repo to life. Automate testing, linting, and releases via .yml scripts so you never have to deploy manually."
+    },
+    "ja": {
+      "name": "GitHub ワークフロー自動化マスター",
+      "desc": "GitHub Actionsを使用してCI/CD、自動デプロイ、Issue管理を実現します。",
+      "full_desc": "リポジトリを自動化しましょう。テスト、フォーマットチェック、リリース配信を自動実行する.ymlスクリプトの作成を学びます。"
     }
   },
   "category": "Automation"
