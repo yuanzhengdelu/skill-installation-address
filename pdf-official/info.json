@@ -1,0 +1,16 @@
+{
+  "id": "pdf-official",
+  "translations": {
+    "zh": {
+      "name": "PDF 格式自动化处理",
+      "desc": "使用代码读取、合并、水印和自动化分析 PDF 官方文档。",
+      "full_desc": "处理合同和报告的救星。该技能涵盖了 Python/Node 自动化处理 PDF 的技巧，教你如何精准提取表格数据、批量添加数字签名以及实现复杂的文档拼接逻辑。"
+    },
+    "en": {
+      "name": "PDF 格式自动化处理",
+      "desc": "Automated summary for pdf-official",
+      "full_desc": "Detailed guide for pdf-official based on community standards."
+    }
+  },
+  "category": "Other"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bun-development",
+  "translations": {
+    "zh": {
+      "name": "Bun 全栈开发",
+      "desc": "使用高性能的 JavaScript 运行时 Bun 构建极其快速的 Web 应用。",
+      "full_desc": "不再受限于 Node.js 的慢速。该技能教你如何利用 Bun 内置的打包器、测试运行器和包管理器，在分秒之间部署高性能的服务器端应用。"
+    },
+    "en": {
+      "name": "Bun 全栈开发",
+      "desc": "Automated standard summary for bun-development",
+      "full_desc": "Detailed plain-language guide for bun-development based on community standards."
+    }
+  },
+  "category": "Development"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pptx-official",
+  "translations": {
+    "zh": {
+      "name": "PPT 商业汇报自动化",
+      "desc": "批量生成符合企业规范的 PowerPoint 演示文稿。",
+      "full_desc": "再也不用为了调 PPT 格式熬夜。该技能教你如何利用代码自动填充幻灯片内容、生成动态图表以及维护统一的主题配色，非常适合定期生成数据分析报告。"
+    },
+    "en": {
+      "name": "PPT 商业汇报自动化",
+      "desc": "Automated summary for pptx-official",
+      "full_desc": "Detailed guide for pptx-official based on community standards."
+    }
+  },
+  "category": "Other"
+}

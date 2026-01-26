@@ -1,0 +1,16 @@
+{
+  "id": "network-101",
+  "translations": {
+    "zh": {
+      "name": "计算机网络基石",
+      "desc": "深入理解 TCP/IP、DNS、HTTP/S 及其底层的通信原理。",
+      "full_desc": "懂网络才能懂安全。该技能以直观的方式解析了数据包如何跨越互联网，讲解了防火墙、NAT、VPN 等核心概念，是所有 IT 人员和安全爱好者的必修地基。"
+    },
+    "en": {
+      "name": "计算机网络基石",
+      "desc": "Automated summary for network-101",
+      "full_desc": "Detailed guide for network-101 based on community standards."
+    }
+  },
+  "category": "Other"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "github-workflow-automation",
+  "translations": {
+    "zh": {
+      "name": "GitHub Actions 自动化大师",
+      "desc": "使用 GitHub 自带的工作流引擎实现 CI/CD、自动部署和 ISSUE 管理。",
+      "full_desc": "让你的仓库‘活’起来。该技能教你如何编写 .yml 脚本，在每次提交后自动运行测试、检查代码格式并自动发布版本，彻底从繁琐的手动部署中解放。"
+    },
+    "en": {
+      "name": "GitHub Actions 自动化大师",
+      "desc": "Automated summary for github-workflow-automation",
+      "full_desc": "Detailed guide for github-workflow-automation based on community standards."
+    }
+  },
+  "category": "Automation"
+}

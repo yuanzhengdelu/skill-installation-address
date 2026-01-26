@@ -1,0 +1,16 @@
+{
+  "id": "prompt-engineering",
+  "translations": {
+    "zh": {
+      "name": "提示词工程精要",
+      "desc": "编写高质量指令以激发大语言模型的最强逻辑与创作能力。",
+      "full_desc": "问得好，才答得好。该技能涵盖了思维链（CoT）、角色设定、Few-shot 等专业技巧，教你如何通过精准的文本引导，让 AI 产生极少幻觉的高质量输出。"
+    },
+    "en": {
+      "name": "提示词工程精要",
+      "desc": "Automated summary for prompt-engineering",
+      "full_desc": "Detailed guide for prompt-engineering based on community standards."
+    }
+  },
+  "category": "Development"
+}

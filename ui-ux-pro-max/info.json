@@ -1,0 +1,16 @@
+{
+  "id": "ui-ux-pro-max",
+  "translations": {
+    "zh": {
+      "name": "UI/UX 顶级体验设计",
+      "desc": "从交互心理学到高阶排版，全面提升产品的易用性与视觉美感。",
+      "full_desc": "让用户爱上你的产品。该技能涵盖了菲茨定律、颜色对比度标准以及复杂的组件交互逻辑，助你打造出既符合直觉又具有高级感的数字产品体验。"
+    },
+    "en": {
+      "name": "UI/UX 顶级体验设计",
+      "desc": "Automated summary for ui-ux-pro-max",
+      "full_desc": "Detailed guide for ui-ux-pro-max based on community standards."
+    }
+  },
+  "category": "UI/UX"
+}

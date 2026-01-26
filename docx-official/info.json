@@ -1,0 +1,16 @@
+{
+  "id": "docx-official",
+  "translations": {
+    "zh": {
+      "name": "Word 官方规范处理",
+      "desc": "自动化生成符合标准格式的 Word (DOCX) 办公文档。",
+      "full_desc": "还在手动排版？该技能教你通过代码自动处理文档标题、目录、表格和页脚，确保生成的所有文件都符合最严格的商务或官方法务排版要求。"
+    },
+    "en": {
+      "name": "Word 官方规范处理",
+      "desc": "Automated standard summary for docx-official",
+      "full_desc": "Detailed plain-language guide for docx-official based on community standards."
+    }
+  },
+  "category": "Other"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "file-organizer",
+  "translations": {
+    "zh": {
+      "name": "文件自动整理专家",
+      "desc": "利用智能脚本自动分类、重命名和归档杂乱的本地资产。",
+      "full_desc": "拯救你的桌面。该技能教你如何编写跨平台的 Python 或 Node 脚本，根据后缀、日期或内容摘要自动移动文件，让你的数字生活告别混乱。"
+    },
+    "en": {
+      "name": "文件自动整理专家",
+      "desc": "Automated standard summary for file-organizer",
+      "full_desc": "Detailed plain-language guide for file-organizer based on community standards."
+    }
+  },
+  "category": "Automation"
+}

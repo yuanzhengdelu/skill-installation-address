@@ -1,0 +1,21 @@
+{
+  "id": "active-directory-attacks",
+  "translations": {
+    "zh": {
+      "name": "Active Directory 攻击",
+      "desc": "涵盖 AD 侦察、凭证获取（Kerberoasting、DCSync、PtH）、横向移动和提权的技术，用于 Windows 域渗透测试。",
+      "full_desc": "该技能提供了针对 Microsoft Active Directory 模拟真实世界攻击的基本方法和工具（如 BloodHound、Impacket、Mimikatz）。用于执行侦察、提取凭证、利用错误配置（如 AD CS）并以道德方式获取域管理员权限。"
+    },
+    "en": {
+      "name": "Active Directory Attacks",
+      "desc": "Techniques covering AD reconnaissance, credential harvesting (Kerberoasting, DCSync, PtH), lateral movement, and privilege escalation for Windows domain penetration testing.",
+      "full_desc": "This skill provides essential methodologies and tools (like BloodHound, Impacket, Mimikatz) for simulating real-world attacks against Microsoft Active Directory. Use it to perform reconnaissance, extract credentials, exploit misconfigurations (like AD CS), and achieve domain administrator privileges ethically."
+    },
+    "ja": {
+      "name": "Active Directory 攻撃",
+      "desc": "AD偵察、認証情報収集（Kerberoasting、DCSync、PtH）、水平移動、特権昇格を網羅した技術。Windowsドメインの侵入テストに使用します。",
+      "full_desc": "Microsoft Active Directoryに対する実世界の攻撃をシミュレートするための必須の方法論とツール（BloodHound、Impacket、Mimikatzなど）を提供します。偵察の実行、認証情報の抽出、誤設定の悪用（AD CSなど）、倫理的な方法でのドメイン管理者権限の取得に使用します。"
+    }
+  },
+  "category": "Security"
+}

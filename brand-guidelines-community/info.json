@@ -1,0 +1,16 @@
+{
+  "id": "brand-guidelines-community",
+  "translations": {
+    "zh": {
+      "name": "社区品牌传播指南",
+      "desc": "为开源社区或兴趣小组制定的品牌化运营和视觉传播建议。",
+      "full_desc": "教你如何为你的开源项目打造独特的‘社区感’。涵盖了 Logo 设计的通用原则、社区氛围的营造方式、以及如何通过统一的视觉符号增强成员的归属感和项目的传播力。"
+    },
+    "en": {
+      "name": "Community Brand Guidelines",
+      "desc": "Branding and visual communication advice for open-source communities and groups.",
+      "full_desc": "Learn how to build a unique 'community feel' for your open-source project. Covers logo design principles, atmosphere building, and how to use unified visual symbols to enhance member belonging and project reach."
+    }
+  },
+  "category": "UI/UX"
+}

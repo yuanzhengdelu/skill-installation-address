@@ -1,0 +1,16 @@
+{
+  "id": "broken-authentication",
+  "translations": {
+    "zh": {
+      "name": "越权与身份验证绕过",
+      "desc": "发现并利用 Web 应用中的登录逻辑漏洞和会话管理缺陷。",
+      "full_desc": "该技能带你深入了解黑客如何绕过登录界面。你会学到关于弱口令、Session 劫持、以及 JWT 伪造等漏洞的原理，帮助你在开发中构建更安全的身份认证系统。"
+    },
+    "en": {
+      "name": "越权与身份验证绕过",
+      "desc": "Automated standard summary for broken-authentication",
+      "full_desc": "Detailed plain-language guide for broken-authentication based on community standards."
+    }
+  },
+  "category": "Security"
+}

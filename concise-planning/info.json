@@ -1,0 +1,16 @@
+{
+  "id": "concise-planning",
+  "translations": {
+    "zh": {
+      "name": "极简项目规划",
+      "desc": "去除冗余，只保留核心任务的精益项目管理方法。",
+      "full_desc": "别让复杂的 Gantt 图拖慢进度。该技能教你如何定义 MVP（最小可行性产品），通过简洁的看板和优先级清单，让团队始终聚焦于最有价值的工作。"
+    },
+    "en": {
+      "name": "极简项目规划",
+      "desc": "Automated standard summary for concise-planning",
+      "full_desc": "Detailed plain-language guide for concise-planning based on community standards."
+    }
+  },
+  "category": "Planning"
+}

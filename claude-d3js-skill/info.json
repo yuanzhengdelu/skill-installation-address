@@ -1,0 +1,16 @@
+{
+  "id": "claude-d3js-skill",
+  "translations": {
+    "zh": {
+      "name": "Claude & D3.js 联动",
+      "desc": "利用 AI 的辅助快速生成复杂的 D3.js 图表和数据可视化作品。",
+      "full_desc": "D3.js 的入门门槛很高，但配合 Claude 就不一样了。该技能演示了如何通过提示词引导 AI 帮你处理复杂的 SVG 计算和数据绑定，让你快速做出震撼的动态仪表盘。"
+    },
+    "en": {
+      "name": "Claude & D3.js 联动",
+      "desc": "Automated standard summary for claude-d3js-skill",
+      "full_desc": "Detailed plain-language guide for claude-d3js-skill based on community standards."
+    }
+  },
+  "category": "UI/UX"
+}

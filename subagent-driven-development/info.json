@@ -1,0 +1,16 @@
+{
+  "id": "subagent-driven-development",
+  "translations": {
+    "zh": {
+      "name": "子智能体驱动开发 (SDD)",
+      "desc": "利用 AI 子智能体模式进行代码生成、自动化重构和复杂逻辑拆解。",
+      "full_desc": "未来已来。该技能介绍了一种全新的开发范式：将开发任务拆解并分发给多个专业化的子 AI 程序执行，教你如何作为‘调度员’高效管理 AI 产出的代码。"
+    },
+    "en": {
+      "name": "子智能体驱动开发 (SDD)",
+      "desc": "Automated summary for subagent-driven-development",
+      "full_desc": "Detailed guide for subagent-driven-development based on community standards."
+    }
+  },
+  "category": "Development"
+}

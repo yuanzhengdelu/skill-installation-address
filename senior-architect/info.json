@@ -1,0 +1,16 @@
+{
+  "id": "senior-architect",
+  "translations": {
+    "zh": {
+      "name": "高级架构师进阶",
+      "desc": "处理高并发、高可用系统的设计挑战与权衡（Trade-offs）。",
+      "full_desc": "架构是权衡的艺术。该技能带你分析 Netflix、Uber 等级的大型系统架构，教你如何处理微服务划分、数据分区以及在 CAP 定理中做出最符合业务的决策。"
+    },
+    "en": {
+      "name": "高级架构师进阶",
+      "desc": "Automated summary for senior-architect",
+      "full_desc": "Detailed guide for senior-architect based on community standards."
+    }
+  },
+  "category": "Development"
+}

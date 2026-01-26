@@ -1,0 +1,16 @@
+{
+  "id": "metasploit-framework",
+  "translations": {
+    "zh": {
+      "name": "Metasploit 渗透实战",
+      "desc": "掌握全球最流行的渗透测试框架，进行全流程自动漏洞利用。",
+      "full_desc": "漏洞利用的工业标准。该技能教你如何进行模块搜索、设置 Payload（如 Meterpreter）、维持权限以及清理痕迹。它是职业白帽子在渗透测试阶段的终极利器。"
+    },
+    "en": {
+      "name": "Metasploit 渗透实战",
+      "desc": "Automated summary for metasploit-framework",
+      "full_desc": "Detailed guide for metasploit-framework based on community standards."
+    }
+  },
+  "category": "Security"
+}

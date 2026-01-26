@@ -1,0 +1,16 @@
+{
+  "id": "claude-code-guide",
+  "translations": {
+    "zh": {
+      "name": "Claude 编程协作指南",
+      "desc": "深入掌握如何让 Claude (Anthropic) 帮你写出更高质量的代码。",
+      "full_desc": "不仅仅是问答。该技能教你如何给 Claude 提供上下文、如何进行迭代式重构，以及如何利用它的超长上下文窗口来分析整个项目文件库。"
+    },
+    "en": {
+      "name": "Claude 编程协作指南",
+      "desc": "Automated standard summary for claude-code-guide",
+      "full_desc": "Detailed plain-language guide for claude-code-guide based on community standards."
+    }
+  },
+  "category": "Development"
+}

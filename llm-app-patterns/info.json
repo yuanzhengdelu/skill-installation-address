@@ -1,0 +1,16 @@
+{
+  "id": "llm-app-patterns",
+  "translations": {
+    "zh": {
+      "name": "LLM 应用设计模式",
+      "desc": "构建基于大语言模型的 RAG（检索增强）、代理和工具链架构。",
+      "full_desc": "超越简单的聊天对话。该技能教你如何实现向量数据库检索、如何构建智能 Routing 逻辑以及如何处理长上下文截断问题，是你开发 AI 原生应用的全能手册。"
+    },
+    "en": {
+      "name": "LLM 应用设计模式",
+      "desc": "Automated summary for llm-app-patterns",
+      "full_desc": "Detailed guide for llm-app-patterns based on community standards."
+    }
+  },
+  "category": "Development"
+}

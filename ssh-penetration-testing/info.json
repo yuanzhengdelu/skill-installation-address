@@ -1,0 +1,16 @@
+{
+  "id": "ssh-penetration-testing",
+  "translations": {
+    "zh": {
+      "name": "SSH 服务安全审计",
+      "desc": "针对 SSH 服务的暴力破解、私钥泄露利用及安全加固建议。",
+      "full_desc": "远程管理的头号目标。该技能带你了解 SSH 协议常见的弱点，教你如何发现暴露在公网的弱密码、由于如何审计私钥权限配置不当，并提供最稳健的加固方案。"
+    },
+    "en": {
+      "name": "SSH 服务安全审计",
+      "desc": "Automated summary for ssh-penetration-testing",
+      "full_desc": "Detailed guide for ssh-penetration-testing based on community standards."
+    }
+  },
+  "category": "Security"
+}

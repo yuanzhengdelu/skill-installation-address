@@ -1,0 +1,16 @@
+{
+  "id": "content-creator",
+  "translations": {
+    "zh": {
+      "name": "全能内容创作助手",
+      "desc": "辅助进行视频文案、社交媒体帖子和博客文章的高产创作。",
+      "full_desc": "如果你在为今天发什么动态发愁，这个技能就是你的灵感源泉。它涵盖了爆款标题模板、SEO 关键词植入以及跨平台的内容改编策略，让你一个人就是一支文案团队。"
+    },
+    "en": {
+      "name": "全能内容创作助手",
+      "desc": "Automated standard summary for content-creator",
+      "full_desc": "Detailed plain-language guide for content-creator based on community standards."
+    }
+  },
+  "category": "Other"
+}

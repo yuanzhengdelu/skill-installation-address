@@ -1,0 +1,16 @@
+{
+  "id": "linux-privilege-escalation",
+  "translations": {
+    "zh": {
+      "name": "Linux 权限提升 (提权)",
+      "desc": "从普通用户权限提升到 Root 最高权限的多种实战路径。",
+      "full_desc": "拿到了 Shell 只是开始。该技能涵盖了内核漏洞利用、SUID 配置错误识别、定时任务滥用以及服务权限配置不当等进阶提权技巧，是渗透测试中的重头戏。"
+    },
+    "en": {
+      "name": "Linux 权限提升 (提权)",
+      "desc": "Automated summary for linux-privilege-escalation",
+      "full_desc": "Detailed guide for linux-privilege-escalation based on community standards."
+    }
+  },
+  "category": "Security"
+}

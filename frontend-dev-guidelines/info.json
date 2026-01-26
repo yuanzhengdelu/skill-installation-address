@@ -1,0 +1,16 @@
+{
+  "id": "frontend-dev-guidelines",
+  "translations": {
+    "zh": {
+      "name": "前端工程化规范",
+      "desc": "现代 React/Vue 项目的目录结构、代码风格和类型检查标准。",
+      "full_desc": "为团队协作量身打造。该技能集成了 ESLint、Prettier 以及 TypeScript 的最佳实践，教你如何编写具有强类型保护和易于维护的大型前端项目。"
+    },
+    "en": {
+      "name": "前端工程化规范",
+      "desc": "Automated standard summary for frontend-dev-guidelines",
+      "full_desc": "Detailed plain-language guide for frontend-dev-guidelines based on community standards."
+    }
+  },
+  "category": "Development"
+}

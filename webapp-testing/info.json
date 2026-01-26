@@ -1,0 +1,16 @@
+{
+  "id": "webapp-testing",
+  "translations": {
+    "zh": {
+      "name": "现代 Web 应用测试",
+      "desc": "针对单页应用 (SPA) 和服务端渲染 (SSR) 架构的全方位安全评估。",
+      "full_desc": "针对新技术的漏洞。该技能讲解了如何挖掘 Vue/React 项目特有的 XSS、如何通过源码泄露还原逻辑，以及在 API 与前端高度耦合下的新型漏洞利用路径。"
+    },
+    "en": {
+      "name": "现代 Web 应用测试",
+      "desc": "Automated summary for webapp-testing",
+      "full_desc": "Detailed guide for webapp-testing based on community standards."
+    }
+  },
+  "category": "Security"
+}

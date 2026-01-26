@@ -1,0 +1,16 @@
+{
+  "id": "sql-injection-testing",
+  "translations": {
+    "zh": {
+      "name": "SQL 注入全实战",
+      "desc": "深入掌握手工与自动化的 SQL 注入挖掘、报错显现与数据获取。",
+      "full_desc": "Web 安全的老牌霸主。该技能教你如何利用单引号测试漏洞，通过 Union、时延或布尔盲注提取数据库敏感信息，并向开发者展示如何通过参数化查询彻底根治。"
+    },
+    "en": {
+      "name": "SQL 注入全实战",
+      "desc": "Automated summary for sql-injection-testing",
+      "full_desc": "Detailed guide for sql-injection-testing based on community standards."
+    }
+  },
+  "category": "Security"
+}

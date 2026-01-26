@@ -1,0 +1,16 @@
+{
+  "id": "dispatching-parallel-agents",
+  "translations": {
+    "zh": {
+      "name": "并行智能体调度",
+      "desc": "管理多个 AI 智能体协同完成大型、复杂的分布式任务。",
+      "full_desc": "一个 AI 忙不过来？那就上一群。该技能介绍了 Master-Worker 架构，教你如何拆解任务并分发给多个并行的 AI 模型，大幅缩短大型代码生成或数据分析的时间。"
+    },
+    "en": {
+      "name": "并行智能体调度",
+      "desc": "Automated standard summary for dispatching-parallel-agents",
+      "full_desc": "Detailed plain-language guide for dispatching-parallel-agents based on community standards."
+    }
+  },
+  "category": "Development"
+}

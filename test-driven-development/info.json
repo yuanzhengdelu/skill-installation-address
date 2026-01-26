@@ -1,0 +1,16 @@
+{
+  "id": "test-driven-development",
+  "translations": {
+    "zh": {
+      "name": "TDD 测试驱动开发",
+      "desc": "先写测试后写代码，通过测试用例驱动出高质量的软件设计。",
+      "full_desc": "要把 Bug 扼杀在摇篮里。该技能教你‘红-绿-重构’的经典循环，帮助你编写出更具鲁棒性、更自然被隔离和更易于长期维护的工业级代码。"
+    },
+    "en": {
+      "name": "TDD 测试驱动开发",
+      "desc": "Automated summary for test-driven-development",
+      "full_desc": "Detailed guide for test-driven-development based on community standards."
+    }
+  },
+  "category": "Development"
+}

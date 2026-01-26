@@ -1,0 +1,16 @@
+{
+  "id": "doc-coauthoring",
+  "translations": {
+    "zh": {
+      "name": "数字文档共创技巧",
+      "desc": "在实时协作环境下高效编写规范化的技术文档或项目计划。",
+      "full_desc": "告别文档版本混乱。该技能分享了在 Notion、Google Docs 等工具中进行多人异步协作的最佳实践，教你如何利用结构化语言清晰地表达思路，让共创过程如丝般顺滑。"
+    },
+    "en": {
+      "name": "数字文档共创技巧",
+      "desc": "Automated standard summary for doc-coauthoring",
+      "full_desc": "Detailed plain-language guide for doc-coauthoring based on community standards."
+    }
+  },
+  "category": "Planning"
+}

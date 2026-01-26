@@ -1,0 +1,16 @@
+{
+  "id": "file-path-traversal",
+  "translations": {
+    "zh": {
+      "name": "目录穿越漏洞全解",
+      "desc": "测试并利用系统文件路径读取漏洞，获取服务器敏感敏感数据。",
+      "full_desc": "有时候一个 ../ 就能拿走所有源码。该技能揭示了路径遍历漏洞的多种变种，教你如何绕过过滤机制读取服务器里的 /etc/passwd 或配置文件，是 Web 安全的基础课。"
+    },
+    "en": {
+      "name": "目录穿越漏洞全解",
+      "desc": "Automated standard summary for file-path-traversal",
+      "full_desc": "Detailed plain-language guide for file-path-traversal based on community standards."
+    }
+  },
+  "category": "Security"
+}

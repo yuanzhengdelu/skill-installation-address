@@ -1,0 +1,16 @@
+{
+  "id": "skill-developer",
+  "translations": {
+    "zh": {
+      "name": "技能开发者指南",
+      "desc": "学习如何为本项目贡献、编写和优化新的技能插件。",
+      "full_desc": "参与开源，共同成长。该技能详细解释了本项目（Skill Manager）的内部工作原理，教你如何编写符合规范的技能模板、由于如何提交 PR 以及如何调优 AI 提取逻辑。"
+    },
+    "en": {
+      "name": "技能开发者指南",
+      "desc": "Automated summary for skill-developer",
+      "full_desc": "Detailed guide for skill-developer based on community standards."
+    }
+  },
+  "category": "Development"
+}

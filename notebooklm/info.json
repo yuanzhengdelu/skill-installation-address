@@ -1,0 +1,16 @@
+{
+  "id": "notebooklm",
+  "translations": {
+    "zh": {
+      "name": "NotebookLM 知识库管理",
+      "desc": "利用 Google 的智能笔记本进行海量文档分析、摘要与播客生成。",
+      "full_desc": "你的数字外脑。该技能教你如何整理碎片的 PDF、文本资料，通过 NotebookLM 快速生成结构化笔记或中文音频总结，是学习、考证和科研人员的最佳知识加速器。"
+    },
+    "en": {
+      "name": "NotebookLM 知识库管理",
+      "desc": "Automated summary for notebooklm",
+      "full_desc": "Detailed guide for notebooklm based on community standards."
+    }
+  },
+  "category": "Other"
+}

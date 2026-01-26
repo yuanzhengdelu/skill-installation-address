@@ -1,0 +1,16 @@
+{
+  "id": "senior-fullstack",
+  "translations": {
+    "zh": {
+      "name": "资深全栈开发者指南",
+      "desc": "打通前后端、数据库与运维的全流程，掌握复杂问题的端到端解决能力。",
+      "full_desc": "真正的全栈是能解决所有层面的 Bug。该技能聚焦于多技术栈的深度整合，教你如何优化全链路排查问题的效率，是每个中级程序员向资深迈进的必修课。"
+    },
+    "en": {
+      "name": "资深全栈开发者指南",
+      "desc": "Automated summary for senior-fullstack",
+      "full_desc": "Detailed guide for senior-fullstack based on community standards."
+    }
+  },
+  "category": "Development"
+}

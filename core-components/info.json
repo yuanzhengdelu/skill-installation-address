@@ -1,0 +1,16 @@
+{
+  "id": "core-components",
+  "translations": {
+    "zh": {
+      "name": "核心组件库建设",
+      "desc": "打造企业级、可重用的 UI 组件库与基础架构。",
+      "full_desc": "告别面条代码。该技能教你如何通过原子设计（Atomic Design）拆解 UI，构建出一套高内聚、低耦合的核心库，让你的项目开发速度提升数倍。"
+    },
+    "en": {
+      "name": "核心组件库建设",
+      "desc": "Automated standard summary for core-components",
+      "full_desc": "Detailed plain-language guide for core-components based on community standards."
+    }
+  },
+  "category": "Development"
+}

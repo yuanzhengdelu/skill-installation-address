@@ -1,0 +1,16 @@
+{
+  "id": "project-guardian",
+  "translations": {
+    "zh": {
+      "name": "项目守卫者：风险管理",
+      "desc": "识别项目中的‘坑’，提前预见延期、超支和技术选型风险。",
+      "full_desc": "最好的危机处理是预防。该技能教你如何识别项目早期的‘不稳’信号，提供了实用的风险评估矩阵，帮助你的项目在复杂多变的环境中始终保持在正轨上。"
+    },
+    "en": {
+      "name": "项目守卫者：风险管理",
+      "desc": "Automated summary for project-guardian",
+      "full_desc": "Detailed guide for project-guardian based on community standards."
+    }
+  },
+  "category": "Planning"
+}

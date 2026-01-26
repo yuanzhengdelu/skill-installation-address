@@ -1,0 +1,16 @@
+{
+  "id": "playwright-skill",
+  "translations": {
+    "zh": {
+      "name": "Playwright 自动化测试",
+      "desc": "使用微软出品的现代浏览器自动化框架进行爬虫与 UI 测试。",
+      "full_desc": "比 Selenium 更快更强。该技能教你如何处理异步元素加载、如何模拟移动端访问以及如何通过录制功能快速生成稳健的 Web 自动化脚本。"
+    },
+    "en": {
+      "name": "Playwright 自动化测试",
+      "desc": "Automated summary for playwright-skill",
+      "full_desc": "Detailed guide for playwright-skill based on community standards."
+    }
+  },
+  "category": "Automation"
+}

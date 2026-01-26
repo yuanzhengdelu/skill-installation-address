@@ -1,0 +1,16 @@
+{
+  "id": "mcp-builder",
+  "translations": {
+    "zh": {
+      "name": "MCP 协议服务端开发",
+      "desc": "开发符合 Model Context Protocol 规范的自定义工具与资源服务器。",
+      "full_desc": "让 AI 连接一切数据。该技能教你如何编写自己的 MCP Server，让 Claude 等 AI 能够安全、规范地读取你的本地文件、数据库或第三方 API，实现真·智能触达。"
+    },
+    "en": {
+      "name": "MCP 协议服务端开发",
+      "desc": "Automated summary for mcp-builder",
+      "full_desc": "Detailed guide for mcp-builder based on community standards."
+    }
+  },
+  "category": "Development"
+}

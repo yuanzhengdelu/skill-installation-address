@@ -1,0 +1,16 @@
+{
+  "id": "red-team-tools",
+  "translations": {
+    "zh": {
+      "name": "红队实战武器库",
+      "desc": "了解攻击者使用的武器，从 C2 架构到绕过杀毒软件的实战工具。",
+      "full_desc": "不仅是渗透，更是对抗。该技能揭示了红队对抗中的‘隐蔽’技巧，教你如何部署 Cobalt Strike 等指挥系统、如何混淆 Payload 以通过 EDR 检测。"
+    },
+    "en": {
+      "name": "红队实战武器库",
+      "desc": "Automated summary for red-team-tools",
+      "full_desc": "Detailed guide for red-team-tools based on community standards."
+    }
+  },
+  "category": "Security"
+}

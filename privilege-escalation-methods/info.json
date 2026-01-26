@@ -1,0 +1,16 @@
+{
+  "id": "privilege-escalation-methods",
+  "translations": {
+    "zh": {
+      "name": "通用提权方法论综述",
+      "desc": "总结跨平台（Windows/Linux）的权限提升通用逻辑与思维习惯。",
+      "full_desc": "提权的本质是寻找‘越权点’。该技能提炼了从配置审计到内核溢出的通用研究框架，教你如何思考如何利用系统服务的弱点，培养你在陌生环境下的渗透直觉。"
+    },
+    "en": {
+      "name": "通用提权方法论综述",
+      "desc": "Automated summary for privilege-escalation-methods",
+      "full_desc": "Detailed guide for privilege-escalation-methods based on community standards."
+    }
+  },
+  "category": "Security"
+}

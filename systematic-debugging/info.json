@@ -1,0 +1,16 @@
+{
+  "id": "systematic-debugging",
+  "translations": {
+    "zh": {
+      "name": "系统化调试法",
+      "desc": "超越断点调试，学习分析内存、线程和分布式链路中的诡异 Bug。",
+      "full_desc": "别再靠猜来修 Bug。该技能教你科学的调试方法：建立假设、设计实验、验证结论。无论是本地的代码还是生产环境的慢请求，都能通过这套逻辑迅速定位。"
+    },
+    "en": {
+      "name": "系统化调试法",
+      "desc": "Automated summary for systematic-debugging",
+      "full_desc": "Detailed guide for systematic-debugging based on community standards."
+    }
+  },
+  "category": "Development"
+}

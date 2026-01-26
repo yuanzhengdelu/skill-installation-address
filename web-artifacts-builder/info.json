@@ -1,0 +1,16 @@
+{
+  "id": "web-artifacts-builder",
+  "translations": {
+    "zh": {
+      "name": "Web 静态资产自动构建",
+      "desc": "优化 JS/CSS 打包流程，实现极其轻量、极速载入的 Web 资产分发。",
+      "full_desc": "快到不可思议。该技能教你如何配置 Vite, Webpack 或 RSBuild，通过 Tree-shaking、图片自动压缩和 CDN 容灾方案，挑战网页加载速度的极限。"
+    },
+    "en": {
+      "name": "Web 静态资产自动构建",
+      "desc": "Automated summary for web-artifacts-builder",
+      "full_desc": "Detailed guide for web-artifacts-builder based on community standards."
+    }
+  },
+  "category": "Development"
+}

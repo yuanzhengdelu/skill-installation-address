@@ -1,0 +1,16 @@
+{
+  "id": "linux-shell-scripting",
+  "translations": {
+    "zh": {
+      "name": "Linux Shell 脚本专家",
+      "desc": "编写强大的 Bash 脚本实现服务器自动化运维与数据批处理。",
+      "full_desc": "命令行就是你的超级工具。该技能教你如何结合 grep、sed、awk 处理海量日志文件，如何编写复杂的自动化巡检脚本，让你轻松管理成百上千台 Linux 服务器。"
+    },
+    "en": {
+      "name": "Linux Shell 脚本专家",
+      "desc": "Automated summary for linux-shell-scripting",
+      "full_desc": "Detailed guide for linux-shell-scripting based on community standards."
+    }
+  },
+  "category": "Automation"
+}

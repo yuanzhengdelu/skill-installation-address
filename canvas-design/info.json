@@ -1,0 +1,16 @@
+{
+  "id": "canvas-design",
+  "translations": {
+    "zh": {
+      "name": "Canvas 画布创作",
+      "desc": "在网页上直接绘制高性能的 2D 图形、图表和游戏界面。",
+      "full_desc": "摆脱 HTML 标签的限制。该技能带你掌握原生 Canvas API，学习如何从零绘制像素级精美的图标、动画效果以及复杂的交互式数据可视化。"
+    },
+    "en": {
+      "name": "Canvas 画布创作",
+      "desc": "Automated standard summary for canvas-design",
+      "full_desc": "Detailed plain-language guide for canvas-design based on community standards."
+    }
+  },
+  "category": "UI/UX"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "software-architecture",
+  "translations": {
+    "zh": {
+      "name": "软件架构模式全解析",
+      "desc": "理解单体、微服务、六边形架构以及事件驱动设计的优劣。",
+      "full_desc": "没有完美的架构，只有最适合的架构。该技能系统化地讲解了各类软件架构的设计思想，帮助你在面对新需求时能快速选择出最稳定、最易于扩展的代码蓝图。"
+    },
+    "en": {
+      "name": "软件架构模式全解析",
+      "desc": "Automated summary for software-architecture",
+      "full_desc": "Detailed guide for software-architecture based on community standards."
+    }
+  },
+  "category": "Development"
+}

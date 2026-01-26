@@ -1,0 +1,16 @@
+{
+  "id": "product-manager-toolkit",
+  "translations": {
+    "zh": {
+      "name": "产品经理全能工具箱",
+      "desc": "掌握 PRD 编写、原型设计思维以及敏捷开发中的需求排期技巧。",
+      "full_desc": "在技术与业务之间架起桥梁。该技能汇集了顶级 PM 使用的需求分析模板、用户体验（UX）审查清单，教你如何准确定义产品价值并推动研发落地。"
+    },
+    "en": {
+      "name": "产品经理全能工具箱",
+      "desc": "Automated summary for product-manager-toolkit",
+      "full_desc": "Detailed guide for product-manager-toolkit based on community standards."
+    }
+  },
+  "category": "Planning"
+}

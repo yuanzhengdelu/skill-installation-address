@@ -1,0 +1,16 @@
+{
+  "id": "theme-factory",
+  "translations": {
+    "zh": {
+      "name": "主题工厂：视觉一致性",
+      "desc": "自动化生成符合品牌或系统调性的配色、图标及 UI 主题包。",
+      "full_desc": "一键换肤的背后。该技能介绍了现代 CSS 变量和 Design Tokens 的应用，教你如何构建一个能够实时预览、自动生成的动态主题系统，让你的产品在视觉上永远保持新鲜。"
+    },
+    "en": {
+      "name": "主题工厂：视觉一致性",
+      "desc": "Automated summary for theme-factory",
+      "full_desc": "Detailed guide for theme-factory based on community standards."
+    }
+  },
+  "category": "UI/UX"
+}

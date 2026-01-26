@@ -1,0 +1,16 @@
+{
+  "id": "javascript-mastery",
+  "translations": {
+    "zh": {
+      "name": "JavaScript 深度进阶",
+      "desc": "掌握 JS 引擎底层原理、闭包、原型链及高性能异步编程。",
+      "full_desc": "别只停留在语法表面。该技能带你剖析 V8 引擎工作原理，深入理解宏任务与微任务队列，并通过实战案例教你如何优化长列表渲染和内存泄漏问题。"
+    },
+    "en": {
+      "name": "JavaScript 深度进阶",
+      "desc": "Automated summary for javascript-mastery",
+      "full_desc": "Detailed guide for javascript-mastery based on community standards."
+    }
+  },
+  "category": "Development"
+}

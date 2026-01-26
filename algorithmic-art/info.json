@@ -1,0 +1,16 @@
+{
+  "id": "algorithmic-art",
+  "translations": {
+    "zh": {
+      "name": "算法艺术绘制",
+      "desc": "使用数学算法和生成式代码创建视觉艺术作品。",
+      "full_desc": "探索生成艺术的世界！该技能教你如何利用 p5.js、Canvas 或 GLSL 等技术，通过编写数学公式和逻辑算法，自动生成规律或随机的美丽几何图案、色彩流场和动态视觉效果。"
+    },
+    "en": {
+      "name": "Algorithmic Art",
+      "desc": "Create visual art using mathematical algorithms and generative code.",
+      "full_desc": "Explore the world of generative art. This skill teaches you to use p5.js, Canvas, or GLSL to create beautiful geometric patterns, flow fields, and dynamic visuals automatically through math and logic-driven code."
+    }
+  },
+  "category": "UI/UX"
+}

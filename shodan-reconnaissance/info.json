@@ -1,0 +1,16 @@
+{
+  "id": "shodan-reconnaissance",
+  "translations": {
+    "zh": {
+      "name": "Shodan 物联网搜寻术",
+      "desc": "使用‘物联网搜索引擎’发现全球联网设备的漏洞与开放服务。",
+      "full_desc": "不需要扫描就能看见世界。该技能教你如何使用 Shodan 查询语法寻找暴露在公网的 PLC、摄像头、未授权数据库以及过时的服务器，是红蓝对抗踩点阶段的核武器。"
+    },
+    "en": {
+      "name": "Shodan 物联网搜寻术",
+      "desc": "Automated summary for shodan-reconnaissance",
+      "full_desc": "Detailed guide for shodan-reconnaissance based on community standards."
+    }
+  },
+  "category": "Security"
+}

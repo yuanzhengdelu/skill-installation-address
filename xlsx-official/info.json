@@ -1,0 +1,16 @@
+{
+  "id": "xlsx-official",
+  "translations": {
+    "zh": {
+      "name": "Excel 数据处理自动化",
+      "desc": "批量处理、生成和分析复杂的 Excel (XLSX) 报表。",
+      "full_desc": "让 Excel 彻底自动化。该技能教你如何利用代码进行跨表计算、自动生成统计图表以及处理海量财务或统计数据，是处理复杂办公数据的终极提效方案。"
+    },
+    "en": {
+      "name": "Excel 数据处理自动化",
+      "desc": "Automated summary for xlsx-official",
+      "full_desc": "Detailed guide for xlsx-official based on community standards."
+    }
+  },
+  "category": "Automation"
+}

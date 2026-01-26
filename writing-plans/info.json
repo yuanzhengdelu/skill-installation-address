@@ -1,0 +1,16 @@
+{
+  "id": "writing-plans",
+  "translations": {
+    "zh": {
+      "name": "高效技术文档/计划编写",
+      "desc": "学习如何编写逻辑严密、目标明确的实施计划与技术规格说明书。",
+      "full_desc": "清晰的计划是成功的一半。该技能提供了一系列行业通用的 PRD 和技术设计模板（RFC），教你如何平衡深度与广度，写出让团队成员都能一眼看懂的高质量文档。"
+    },
+    "en": {
+      "name": "高效技术文档/计划编写",
+      "desc": "Automated summary for writing-plans",
+      "full_desc": "Detailed guide for writing-plans based on community standards."
+    }
+  },
+  "category": "Planning"
+}

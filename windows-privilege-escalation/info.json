@@ -1,0 +1,16 @@
+{
+  "id": "windows-privilege-escalation",
+  "translations": {
+    "zh": {
+      "name": "Windows 权限提升 (提权)",
+      "desc": "在 Windows 环境内，从普通用户提升到 SYSTEM 或管理员权限。",
+      "full_desc": "掌握 Windows 的‘后门’权限。该技能涵盖了服务路径不规范利用、DLL 劫持、未授权访问本地提权漏洞（如烂土豆系列）等实操经验，是红队对抗的必修课。"
+    },
+    "en": {
+      "name": "Windows 权限提升 (提权)",
+      "desc": "Automated summary for windows-privilege-escalation",
+      "full_desc": "Detailed guide for windows-privilege-escalation based on community standards."
+    }
+  },
+  "category": "Security"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "git-pushing",
+  "translations": {
+    "zh": {
+      "name": "Git 提交与推送艺术",
+      "desc": "规范化 Git 提交信息、处理大规模冲突以及强制推送权限管理。",
+      "full_desc": "不仅是 git push。该技能教你如何编写符合业界规范的 Commit Message（如 feat/fix 标签），以及如何处理分支落后、强制推送风险评估等进阶 Git 实战技巧。"
+    },
+    "en": {
+      "name": "Git 提交与推送艺术",
+      "desc": "Automated summary for git-pushing",
+      "full_desc": "Detailed guide for git-pushing based on community standards."
+    }
+  },
+  "category": "Automation"
+}

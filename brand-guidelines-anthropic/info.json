@@ -1,0 +1,16 @@
+{
+  "id": "brand-guidelines-anthropic",
+  "translations": {
+    "zh": {
+      "name": "Anthropic 品牌识别指南",
+      "desc": "了解 Anthropic (Claude) 的品牌调性、视觉风格和书写标准。",
+      "full_desc": "如果你正在构建基于 Claude 的产品，这个技能非常有用。它规定了如何正确引用 Anthropic 品牌，使用了什么样的字体、配色以及在宣传语中应注意的语气。确保你的品牌呈现符合官方的高标准。"
+    },
+    "en": {
+      "name": "Anthropic Brand Guidelines",
+      "desc": "Understand the brand tone, visual style, and writing standards for Anthropic (Claude).",
+      "full_desc": "Crucial if you're building Claude-powered products. It outlines how to correctly reference the Anthropic brand, including fonts, colors, and the appropriate tone of voice for marketing copy. Keep your brand representation aligned with official standards."
+    }
+  },
+  "category": "UI/UX"
+}

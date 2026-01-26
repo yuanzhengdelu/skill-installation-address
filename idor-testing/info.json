@@ -1,0 +1,16 @@
+{
+  "id": "idor-testing",
+  "translations": {
+    "zh": {
+      "name": "IDOR 越权漏洞实战",
+      "desc": "探究由于对象引用不当导致的水平越权和垂直越权漏洞。",
+      "full_desc": "‘我能看别人的订单吗？’。该技能深入剖析了 IDOR 的原理，教你通过篡改 ID 参数或令牌来访问非授权数据，并提供开发者如何防御这种高风险逻辑漏洞的方法。"
+    },
+    "en": {
+      "name": "IDOR 越权漏洞实战",
+      "desc": "Automated summary for idor-testing",
+      "full_desc": "Detailed guide for idor-testing based on community standards."
+    }
+  },
+  "category": "Security"
+}
