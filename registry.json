@@ -1,5 +1,250 @@
 [
 {
+  "id": "active-directory-attacks",
+  "translations": {
+    "zh": {
+      "name": "Active Directory 攻击",
+      "desc": "涵盖 AD 侦察、凭证获取（Kerberoasting、DCSync、PtH）、横向移动和提权的技术，用于 Windows 域渗透测试。",
+      "full_desc": "该技能提供了针对 Microsoft Active Directory 模拟真实世界攻击的基本方法和工具（如 BloodHound、Impacket、Mimikatz）。用于执行侦察、提取凭证、利用错误配置（如 AD CS）并以道德方式获取域管理员权限。"
+    },
+    "en": {
+      "name": "Active Directory Attacks",
+      "desc": "Techniques covering AD reconnaissance, credential harvesting (Kerberoasting, DCSync, PtH), lateral movement, and privilege escalation for Windows domain penetration testing.",
+      "full_desc": "This skill provides essential methodologies and tools (like BloodHound, Impacket, Mimikatz) for simulating real-world attacks against Microsoft Active Directory. Use it to perform reconnaissance, extract credentials, exploit misconfigurations (like AD CS), and achieve domain administrator privileges ethically."
+    },
+    "ja": {
+      "name": "Active Directory 攻撃",
+      "desc": "AD偵察、認証情報収集（Kerberoasting、DCSync、PtH）、水平移動、特権昇格を網羅した技術。Windowsドメインの侵入テストに使用します。",
+      "full_desc": "Microsoft Active Directoryに対する実世界の攻撃をシミュレートするための必須の方法論とツール（BloodHound、Impacket、Mimikatzなど）を提供します。偵察の実行、認証情報の抽出、誤設定の悪用（AD CSなど）、倫理的な方法でのドメイン管理者権限の取得に使用します。"
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "address-github-comments",
+  "translations": {
+    "zh": {
+      "name": "回复 GitHub 评论",
+      "desc": "自动化或辅助回复 GitHub 上的 Issue 和 Pull Request 评论。",
+      "full_desc": "该技能帮助你专业地回应 GitHub 上的反馈。它能分析评论语境，提供礼貌、准确的回复建议，并处理合并请求中的修改建议。非常适合维护开源项目或团队协作，节省沟通成本。"
+    },
+    "en": {
+      "name": "Address GitHub Comments",
+      "desc": "Automate or assist in replying to GitHub Issue and Pull Request comments.",
+      "full_desc": "Helps you respond professionally to GitHub feedback. It analyzes comment context to provide polite, accurate reply suggestions and handles change requests in PRs. Perfect for open-source maintainers or team collabs to save communication time."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "algorithmic-art",
+  "translations": {
+    "zh": {
+      "name": "算法艺术绘制",
+      "desc": "使用数学算法和生成式代码创建视觉艺术作品。",
+      "full_desc": "探索生成艺术的世界！该技能教你如何利用 p5.js、Canvas 或 GLSL 等技术，通过编写数学公式和逻辑算法，自动生成规律或随机的美丽几何图案、色彩流场和动态视觉效果。"
+    },
+    "en": {
+      "name": "Algorithmic Art",
+      "desc": "Create visual art using mathematical algorithms and generative code.",
+      "full_desc": "Explore the world of generative art. This skill teaches you to use p5.js, Canvas, or GLSL to create beautiful geometric patterns, flow fields, and dynamic visuals automatically through math and logic-driven code."
+    }
+  },
+  "category": "UI/UX"
+},
+{
+  "id": "api-fuzzing-bug-bounty",
+  "translations": {
+    "zh": {
+      "name": "API 模糊测试与漏洞赏金",
+      "desc": "针对 Web API 进行漏洞挖掘和 Fuzzing 测试的技巧。",
+      "full_desc": "专注于 API 安全性。该技能指导你如何使用 ffuf、wfuzz 等工具对 API 接口进行暴力枚举、注入测试和未授权访问检查，旨在帮助安全研究员在漏洞赏金计划中发现高质量的逻辑漏洞。"
+    },
+    "en": {
+      "name": "API Fuzzing & Bug Bounty",
+      "desc": "Vulnerability research and Fuzzing techniques targeting Web APIs.",
+      "full_desc": "Focused on API security. This skill guides you through using tools like ffuf or wfuzz to perform brute-force enumeration, injection testing, and unauthorized access checks to find high-impact logic bugs in bug bounty programs."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "app-store-optimization",
+  "translations": {
+    "zh": {
+      "name": "应用商店 SEO (ASO)",
+      "desc": "优化移动端应用在 App Store 和 Google Play 的排名。",
+      "full_desc": "想让你的 App 获得更多下载？该技能教你如何优化关键词、标题、副标题以及屏幕截图文案，利用搜索排名机制（SEO）提升 App 的可见度，降低获客成本，让更多用户主动找到你的应用。"
+    },
+    "en": {
+      "name": "App Store Optimization (ASO)",
+      "desc": "Optimize mobile app rankings in App Store and Google Play.",
+      "full_desc": "Want more downloads for your App? This skill teaches you how to optimize keywords, titles, subtitles, and screenshot copy to leverage store search algorithms (ASO) for better visibility and lower user acquisition costs."
+    }
+  },
+  "category": "Planning"
+},
+{
+  "id": "autonomous-agent-patterns",
+  "translations": {
+    "zh": {
+      "name": "自主智能体设计模式",
+      "desc": "开发能够独立根据任务进行规划和执行的 AI 智能体架构。",
+      "full_desc": "深入了解 AutoGPT、BabyAGI 等系统的底层逻辑。该技能介绍了如自主规划（Planning）、记忆管理（Memory）和工具调用（Tool Use）等核心设计模式，帮助你构建能够像人类一样思考并执行复杂任务的智能机器人。"
+    },
+    "en": {
+      "name": "Autonomous Agent Patterns",
+      "desc": "Developing AI agent architectures that plan and execute tasks independently.",
+      "full_desc": "Dive deep into the logic behind systems like AutoGPT. This skill covers core design patterns like self-reflection, memory management, and tool-use, enabling you to build AI agents capable of planning and executing complex tasks without constant human input."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "aws-penetration-testing",
+  "translations": {
+    "zh": {
+      "name": "AWS 云渗透测试",
+      "desc": "发现并利用亚马逊云环境中的配置风险和权限漏洞。",
+      "full_desc": "学习如何在 AWS 环境中进行安全评估。涵盖 IAM 权限滥用、S3 存储桶泄露、EC2 元数据利用（SSRF）等实战技术，教你识别云原生的攻击面并保护云基础设施的安全性。"
+    },
+    "en": {
+      "name": "AWS Penetration Testing",
+      "desc": "Discover and exploit misconfigurations and permission flaws in AWS cloud environments.",
+      "full_desc": "Learn to conduct security assessments in AWS. Covers IAM privilege escalation, S3 bucket enumeration, and EC2 metadata (SSRF) exploitation, helping you identify and secure cloud-native attack surfaces."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "backend-dev-guidelines",
+  "translations": {
+    "zh": {
+      "name": "后端开发最佳实践",
+      "desc": "高质量后端架构、API 设计和 API 文档编写规范。",
+      "full_desc": "不仅是写代码，而是写出优秀的系统。该技能涵盖了 RESTful API 设计、分布式系统一致性、数据库索引优化以及错误处理标准。它是你从普通开发者成长为架构师的必经之路。"
+    },
+    "en": {
+      "name": "Backend Dev Guidelines",
+      "desc": "Standards for high-quality backend architecture, API design, and documentation.",
+      "full_desc": "It's not just about coding; it's about building great systems. This skill covers RESTful API design, database index optimization, distributed consistency, and error handling standards to help you grow from a developer into an architect."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "brainstorming",
+  "translations": {
+    "zh": {
+      "name": "创意头脑风暴",
+      "desc": "辅助进行产品创意、项目起名和复杂问题的发散性思考。",
+      "full_desc": "灵感枯竭了？该技能提供了多种创意思维框架（如 SCAMPER 甚至逆向思维），帮助你快速生成大量点子。无论是给项目起个酷名字，还是寻找产品的下一个突破点，它都是你最好的数字创意伙伴。"
+    },
+    "en": {
+      "name": "Brainstorming",
+      "desc": "Assisted creative thinking for product ideas, naming, and complex problem-solving.",
+      "full_desc": "Running out of ideas? This skill provides various creative thinking frameworks (like SCAMPER) to help you generate sparks. Whether it's picking a cool project name or finding the next big feature, it's your best digital creative partner."
+    }
+  },
+  "category": "Planning"
+},
+{
+  "id": "brand-guidelines-anthropic",
+  "translations": {
+    "zh": {
+      "name": "Anthropic 品牌识别指南",
+      "desc": "了解 Anthropic (Claude) 的品牌调性、视觉风格和书写标准。",
+      "full_desc": "如果你正在构建基于 Claude 的产品，这个技能非常有用。它规定了如何正确引用 Anthropic 品牌，使用了什么样的字体、配色以及在宣传语中应注意的语气。确保你的品牌呈现符合官方的高标准。"
+    },
+    "en": {
+      "name": "Anthropic Brand Guidelines",
+      "desc": "Understand the brand tone, visual style, and writing standards for Anthropic (Claude).",
+      "full_desc": "Crucial if you're building Claude-powered products. It outlines how to correctly reference the Anthropic brand, including fonts, colors, and the appropriate tone of voice for marketing copy. Keep your brand representation aligned with official standards."
+    }
+  },
+  "category": "UI/UX"
+},
+{
+  "id": "brand-guidelines-community",
+  "translations": {
+    "zh": {
+      "name": "社区品牌传播指南",
+      "desc": "为开源社区或兴趣小组制定的品牌化运营和视觉传播建议。",
+      "full_desc": "教你如何为你的开源项目打造独特的‘社区感’。涵盖了 Logo 设计的通用原则、社区氛围的营造方式、以及如何通过统一的视觉符号增强成员的归属感和项目的传播力。"
+    },
+    "en": {
+      "name": "Community Brand Guidelines",
+      "desc": "Branding and visual communication advice for open-source communities and groups.",
+      "full_desc": "Learn how to build a unique 'community feel' for your open-source project. Covers logo design principles, atmosphere building, and how to use unified visual symbols to enhance member belonging and project reach."
+    }
+  },
+  "category": "UI/UX"
+},
+{
+  "id": "broken-authentication",
+  "translations": {
+    "zh": {
+      "name": "越权与身份验证绕过",
+      "desc": "发现并利用 Web 应用中的登录逻辑漏洞和会话管理缺陷。",
+      "full_desc": "该技能带你深入了解黑客如何绕过登录界面。你会学到关于弱口令、Session 劫持、以及 JWT 伪造等漏洞的原理，帮助你在开发中构建更安全的身份认证系统。"
+    },
+    "en": {
+      "name": "越权与身份验证绕过",
+      "desc": "Automated standard summary for broken-authentication",
+      "full_desc": "Detailed plain-language guide for broken-authentication based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "bun-development",
+  "translations": {
+    "zh": {
+      "name": "Bun 全栈开发",
+      "desc": "使用高性能的 JavaScript 运行时 Bun 构建极其快速的 Web 应用。",
+      "full_desc": "不再受限于 Node.js 的慢速。该技能教你如何利用 Bun 内置的打包器、测试运行器和包管理器，在分秒之间部署高性能的服务器端应用。"
+    },
+    "en": {
+      "name": "Bun 全栈开发",
+      "desc": "Automated standard summary for bun-development",
+      "full_desc": "Detailed plain-language guide for bun-development based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "burp-suite-testing",
+  "translations": {
+    "zh": {
+      "name": "Burp Suite 实战指南",
+      "desc": "熟练使用业界排名的 Web 漏洞扫描与手动拦截工具。",
+      "full_desc": "这是 Web 安全人员的‘瑞士军刀’。该技能教你如何设置代理、拦截数据包、进行自动化重发（Intruder）以及分析加密流量，是每个白帽子必备的高级技能。"
+    },
+    "en": {
+      "name": "Burp Suite 实战指南",
+      "desc": "Automated standard summary for burp-suite-testing",
+      "full_desc": "Detailed plain-language guide for burp-suite-testing based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "canvas-design",
+  "translations": {
+    "zh": {
+      "name": "Canvas 画布创作",
+      "desc": "在网页上直接绘制高性能的 2D 图形、图表和游戏界面。",
+      "full_desc": "摆脱 HTML 标签的限制。该技能带你掌握原生 Canvas API，学习如何从零绘制像素级精美的图标、动画效果以及复杂的交互式数据可视化。"
+    },
+    "en": {
+      "name": "Canvas 画布创作",
+      "desc": "Automated standard summary for canvas-design",
+      "full_desc": "Detailed plain-language guide for canvas-design based on community standards."
+    }
+  },
+  "category": "UI/UX"
+},
+{
   "id": "ceshi",
   "translations": {
     "zh": {
@@ -17,4 +262,932 @@
   },
   "category": "Other",
   "audit_passed": true
+},
+{
+  "id": "claude-code-guide",
+  "translations": {
+    "zh": {
+      "name": "Claude 编程协作指南",
+      "desc": "深入掌握如何让 Claude (Anthropic) 帮你写出更高质量的代码。",
+      "full_desc": "不仅仅是问答。该技能教你如何给 Claude 提供上下文、如何进行迭代式重构，以及如何利用它的超长上下文窗口来分析整个项目文件库。"
+    },
+    "en": {
+      "name": "Claude 编程协作指南",
+      "desc": "Automated standard summary for claude-code-guide",
+      "full_desc": "Detailed plain-language guide for claude-code-guide based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "claude-d3js-skill",
+  "translations": {
+    "zh": {
+      "name": "Claude & D3.js 联动",
+      "desc": "利用 AI 的辅助快速生成复杂的 D3.js 图表和数据可视化作品。",
+      "full_desc": "D3.js 的入门门槛很高，但配合 Claude 就不一样了。该技能演示了如何通过提示词引导 AI 帮你处理复杂的 SVG 计算和数据绑定，让你快速做出震撼的动态仪表盘。"
+    },
+    "en": {
+      "name": "Claude & D3.js 联动",
+      "desc": "Automated standard summary for claude-d3js-skill",
+      "full_desc": "Detailed plain-language guide for claude-d3js-skill based on community standards."
+    }
+  },
+  "category": "UI/UX"
+},
+{
+  "id": "cloud-penetration-testing",
+  "translations": {
+    "zh": {
+      "name": "云原生渗透测试",
+      "desc": "针对多云环境（AWS, Azure, GCP）的安全审计与漏洞利用。",
+      "full_desc": "随着企业上云，安全战场也转移了。该技能汇总了多个云平台的常见配置错误，教你如何横向移动、跨租户攻击以及利用云服务商的高级 API 权限。"
+    },
+    "en": {
+      "name": "云原生渗透测试",
+      "desc": "Automated standard summary for cloud-penetration-testing",
+      "full_desc": "Detailed plain-language guide for cloud-penetration-testing based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "concise-planning",
+  "translations": {
+    "zh": {
+      "name": "极简项目规划",
+      "desc": "去除冗余，只保留核心任务的精益项目管理方法。",
+      "full_desc": "别让复杂的 Gantt 图拖慢进度。该技能教你如何定义 MVP（最小可行性产品），通过简洁的看板和优先级清单，让团队始终聚焦于最有价值的工作。"
+    },
+    "en": {
+      "name": "极简项目规划",
+      "desc": "Automated standard summary for concise-planning",
+      "full_desc": "Detailed plain-language guide for concise-planning based on community standards."
+    }
+  },
+  "category": "Planning"
+},
+{
+  "id": "content-creator",
+  "translations": {
+    "zh": {
+      "name": "全能内容创作助手",
+      "desc": "辅助进行视频文案、社交媒体帖子和博客文章的高产创作。",
+      "full_desc": "如果你在为今天发什么动态发愁，这个技能就是你的灵感源泉。它涵盖了爆款标题模板、SEO 关键词植入以及跨平台的内容改编策略，让你一个人就是一支文案团队。"
+    },
+    "en": {
+      "name": "全能内容创作助手",
+      "desc": "Automated standard summary for content-creator",
+      "full_desc": "Detailed plain-language guide for content-creator based on community standards."
+    }
+  },
+  "category": "Other"
+},
+{
+  "id": "core-components",
+  "translations": {
+    "zh": {
+      "name": "核心组件库建设",
+      "desc": "打造企业级、可重用的 UI 组件库与基础架构。",
+      "full_desc": "告别面条代码。该技能教你如何通过原子设计（Atomic Design）拆解 UI，构建出一套高内聚、低耦合的核心库，让你的项目开发速度提升数倍。"
+    },
+    "en": {
+      "name": "核心组件库建设",
+      "desc": "Automated standard summary for core-components",
+      "full_desc": "Detailed plain-language guide for core-components based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "dispatching-parallel-agents",
+  "translations": {
+    "zh": {
+      "name": "并行智能体调度",
+      "desc": "管理多个 AI 智能体协同完成大型、复杂的分布式任务。",
+      "full_desc": "一个 AI 忙不过来？那就上一群。该技能介绍了 Master-Worker 架构，教你如何拆解任务并分发给多个并行的 AI 模型，大幅缩短大型代码生成或数据分析的时间。"
+    },
+    "en": {
+      "name": "并行智能体调度",
+      "desc": "Automated standard summary for dispatching-parallel-agents",
+      "full_desc": "Detailed plain-language guide for dispatching-parallel-agents based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "doc-coauthoring",
+  "translations": {
+    "zh": {
+      "name": "数字文档共创技巧",
+      "desc": "在实时协作环境下高效编写规范化的技术文档或项目计划。",
+      "full_desc": "告别文档版本混乱。该技能分享了在 Notion、Google Docs 等工具中进行多人异步协作的最佳实践，教你如何利用结构化语言清晰地表达思路，让共创过程如丝般顺滑。"
+    },
+    "en": {
+      "name": "数字文档共创技巧",
+      "desc": "Automated standard summary for doc-coauthoring",
+      "full_desc": "Detailed plain-language guide for doc-coauthoring based on community standards."
+    }
+  },
+  "category": "Planning"
+},
+{
+  "id": "docx-official",
+  "translations": {
+    "zh": {
+      "name": "Word 官方规范处理",
+      "desc": "自动化生成符合标准格式的 Word (DOCX) 办公文档。",
+      "full_desc": "还在手动排版？该技能教你通过代码自动处理文档标题、目录、表格和页脚，确保生成的所有文件都符合最严格的商务或官方法务排版要求。"
+    },
+    "en": {
+      "name": "Word 官方规范处理",
+      "desc": "Automated standard summary for docx-official",
+      "full_desc": "Detailed plain-language guide for docx-official based on community standards."
+    }
+  },
+  "category": "Other"
+},
+{
+  "id": "ethical-hacking-methodology",
+  "translations": {
+    "zh": {
+      "name": "道德黑客实战方法论",
+      "desc": "从信息搜寻到报告编写的一整套专业渗透测试流程。",
+      "full_desc": "成为‘正规军’的第一步。该技能不只是教你工具，更重要是教你渗透的逻辑：从踩点、扫描、利用到权限提升，最后如何写出一份让客户心服口服的安全报告。"
+    },
+    "en": {
+      "name": "道德黑客实战方法论",
+      "desc": "Automated standard summary for ethical-hacking-methodology",
+      "full_desc": "Detailed plain-language guide for ethical-hacking-methodology based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "executing-plans",
+  "translations": {
+    "zh": {
+      "name": "项目执行力强化",
+      "desc": "将复杂的计划落地为实际代码和产品的高效执行策略。",
+      "full_desc": "计划很美好，落地很痛苦。该技能聚焦于‘反馈循环’，教你如何快速响应变化，解决执行过程中的技术卡点，确保项目能雷打不动地按时上线。"
+    },
+    "en": {
+      "name": "项目执行力强化",
+      "desc": "Automated standard summary for executing-plans",
+      "full_desc": "Detailed plain-language guide for executing-plans based on community standards."
+    }
+  },
+  "category": "Planning"
+},
+{
+  "id": "file-organizer",
+  "translations": {
+    "zh": {
+      "name": "文件自动整理专家",
+      "desc": "利用智能脚本自动分类、重命名和归档杂乱的本地资产。",
+      "full_desc": "拯救你的桌面。该技能教你如何编写跨平台的 Python 或 Node 脚本，根据后缀、日期或内容摘要自动移动文件，让你的数字生活告别混乱。"
+    },
+    "en": {
+      "name": "文件自动整理专家",
+      "desc": "Automated standard summary for file-organizer",
+      "full_desc": "Detailed plain-language guide for file-organizer based on community standards."
+    }
+  },
+  "category": "Automation"
+},
+{
+  "id": "file-path-traversal",
+  "translations": {
+    "zh": {
+      "name": "目录穿越漏洞全解",
+      "desc": "测试并利用系统文件路径读取漏洞，获取服务器敏感敏感数据。",
+      "full_desc": "有时候一个 ../ 就能拿走所有源码。该技能揭示了路径遍历漏洞的多种变种，教你如何绕过过滤机制读取服务器里的 /etc/passwd 或配置文件，是 Web 安全的基础课。"
+    },
+    "en": {
+      "name": "目录穿越漏洞全解",
+      "desc": "Automated standard summary for file-path-traversal",
+      "full_desc": "Detailed plain-language guide for file-path-traversal based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "finishing-a-development-branch",
+  "translations": {
+    "zh": {
+      "name": "分支合并进阶指南",
+      "desc": "在 Git 工作流中规范化地收尾、测试并合并开发分支。",
+      "full_desc": "不要在合并时毁了主仓库。该技能涵盖了 Rebase vs Merge 的选择、冲突解决策略以及在合并前必须执行的自动化检查清单，确保主分支永远是稳定的稳定的。"
+    },
+    "en": {
+      "name": "分支合并进阶指南",
+      "desc": "Automated standard summary for finishing-a-development-branch",
+      "full_desc": "Detailed plain-language guide for finishing-a-development-branch based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "frontend-design",
+  "translations": {
+    "zh": {
+      "name": "前沿前端视觉设计",
+      "desc": "掌握现代网页排版、动效和响应式布局的顶级视觉方案。",
+      "full_desc": "让你的页面不仅好用而且‘好看’。该技能分享了当下最流行的磨砂玻璃效果、Neumorphism 风格以及 CSS 自定义属性的高级技巧，提升你的界面层级感。"
+    },
+    "en": {
+      "name": "前沿前端视觉设计",
+      "desc": "Automated standard summary for frontend-design",
+      "full_desc": "Detailed plain-language guide for frontend-design based on community standards."
+    }
+  },
+  "category": "UI/UX"
+},
+{
+  "id": "frontend-dev-guidelines",
+  "translations": {
+    "zh": {
+      "name": "前端工程化规范",
+      "desc": "现代 React/Vue 项目的目录结构、代码风格和类型检查标准。",
+      "full_desc": "为团队协作量身打造。该技能集成了 ESLint、Prettier 以及 TypeScript 的最佳实践，教你如何编写具有强类型保护和易于维护的大型前端项目。"
+    },
+    "en": {
+      "name": "前端工程化规范",
+      "desc": "Automated standard summary for frontend-dev-guidelines",
+      "full_desc": "Detailed plain-language guide for frontend-dev-guidelines based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "git-pushing",
+  "translations": {
+    "zh": {
+      "name": "Git 提交与推送艺术",
+      "desc": "规范化 Git 提交信息、处理大规模冲突以及强制推送权限管理。",
+      "full_desc": "不仅是 git push。该技能教你如何编写符合业界规范的 Commit Message（如 feat/fix 标签），以及如何处理分支落后、强制推送风险评估等进阶 Git 实战技巧。"
+    },
+    "en": {
+      "name": "Git 提交与推送艺术",
+      "desc": "Automated summary for git-pushing",
+      "full_desc": "Detailed guide for git-pushing based on community standards."
+    }
+  },
+  "category": "Automation"
+},
+{
+  "id": "github-workflow-automation",
+  "translations": {
+    "zh": {
+      "name": "GitHub Actions 自动化大师",
+      "desc": "使用 GitHub 自带的工作流引擎实现 CI/CD、自动部署和 ISSUE 管理。",
+      "full_desc": "让你的仓库‘活’起来。该技能教你如何编写 .yml 脚本，在每次提交后自动运行测试、检查代码格式并自动发布版本，彻底从繁琐的手动部署中解放。"
+    },
+    "en": {
+      "name": "GitHub Actions 自动化大师",
+      "desc": "Automated summary for github-workflow-automation",
+      "full_desc": "Detailed guide for github-workflow-automation based on community standards."
+    }
+  },
+  "category": "Automation"
+},
+{
+  "id": "html-injection-testing",
+  "translations": {
+    "zh": {
+      "name": "HTML 注入漏洞挖掘",
+      "desc": "在网页中发现并利用非跨站脚本（XSS）的结构化注入漏洞。",
+      "full_desc": "不仅仅是 XSS。该技能教你如何利用输入过滤不严，向页面注入恶意的 HTML 标签来篡改页面内容、钓鱼或诱导用户点击，是深入学习前端安全的基础。"
+    },
+    "en": {
+      "name": "HTML 注入漏洞挖掘",
+      "desc": "Automated summary for html-injection-testing",
+      "full_desc": "Detailed guide for html-injection-testing based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "idor-testing",
+  "translations": {
+    "zh": {
+      "name": "IDOR 越权漏洞实战",
+      "desc": "探究由于对象引用不当导致的水平越权和垂直越权漏洞。",
+      "full_desc": "‘我能看别人的订单吗？’。该技能深入剖析了 IDOR 的原理，教你通过篡改 ID 参数或令牌来访问非授权数据，并提供开发者如何防御这种高风险逻辑漏洞的方法。"
+    },
+    "en": {
+      "name": "IDOR 越权漏洞实战",
+      "desc": "Automated summary for idor-testing",
+      "full_desc": "Detailed guide for idor-testing based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "internal-comms-anthropic",
+  "translations": {
+    "zh": {
+      "name": "高层协作沟通术 (Anthropic版)",
+      "desc": "学习 Anthropic 企业级协作中使用的专业、简洁、透明的沟通模板。",
+      "full_desc": "不仅仅是聊天。该技能基于硅谷顶级 AI 公司的内部沟通逻辑，教你如何撰写清晰的周报、项目同步文档以及如何进行高效的异步协作，提升职业影响力。"
+    },
+    "en": {
+      "name": "高层协作沟通术 (Anthropic版)",
+      "desc": "Automated summary for internal-comms-anthropic",
+      "full_desc": "Detailed guide for internal-comms-anthropic based on community standards."
+    }
+  },
+  "category": "Planning"
+},
+{
+  "id": "javascript-mastery",
+  "translations": {
+    "zh": {
+      "name": "JavaScript 深度进阶",
+      "desc": "掌握 JS 引擎底层原理、闭包、原型链及高性能异步编程。",
+      "full_desc": "别只停留在语法表面。该技能带你剖析 V8 引擎工作原理，深入理解宏任务与微任务队列，并通过实战案例教你如何优化长列表渲染和内存泄漏问题。"
+    },
+    "en": {
+      "name": "JavaScript 深度进阶",
+      "desc": "Automated summary for javascript-mastery",
+      "full_desc": "Detailed guide for javascript-mastery based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "kaizen",
+  "translations": {
+    "zh": {
+      "name": "Kaizen 持续改进法",
+      "desc": "源自精益生产的渐进式项目优化与效率提升方法论。",
+      "full_desc": "每天进步 1%。该技能介绍如何通过 PDCA 循环（计划-执行-检查-处理）来不断优化团队的工作流，减少浪费，通过小步快跑实现项目交付质量的质变。"
+    },
+    "en": {
+      "name": "Kaizen 持续改进法",
+      "desc": "Automated summary for kaizen",
+      "full_desc": "Detailed guide for kaizen based on community standards."
+    }
+  },
+  "category": "Planning"
+},
+{
+  "id": "linux-privilege-escalation",
+  "translations": {
+    "zh": {
+      "name": "Linux 权限提升 (提权)",
+      "desc": "从普通用户权限提升到 Root 最高权限的多种实战路径。",
+      "full_desc": "拿到了 Shell 只是开始。该技能涵盖了内核漏洞利用、SUID 配置错误识别、定时任务滥用以及服务权限配置不当等进阶提权技巧，是渗透测试中的重头戏。"
+    },
+    "en": {
+      "name": "Linux 权限提升 (提权)",
+      "desc": "Automated summary for linux-privilege-escalation",
+      "full_desc": "Detailed guide for linux-privilege-escalation based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "linux-shell-scripting",
+  "translations": {
+    "zh": {
+      "name": "Linux Shell 脚本专家",
+      "desc": "编写强大的 Bash 脚本实现服务器自动化运维与数据批处理。",
+      "full_desc": "命令行就是你的超级工具。该技能教你如何结合 grep、sed、awk 处理海量日志文件，如何编写复杂的自动化巡检脚本，让你轻松管理成百上千台 Linux 服务器。"
+    },
+    "en": {
+      "name": "Linux Shell 脚本专家",
+      "desc": "Automated summary for linux-shell-scripting",
+      "full_desc": "Detailed guide for linux-shell-scripting based on community standards."
+    }
+  },
+  "category": "Automation"
+},
+{
+  "id": "llm-app-patterns",
+  "translations": {
+    "zh": {
+      "name": "LLM 应用设计模式",
+      "desc": "构建基于大语言模型的 RAG（检索增强）、代理和工具链架构。",
+      "full_desc": "超越简单的聊天对话。该技能教你如何实现向量数据库检索、如何构建智能 Routing 逻辑以及如何处理长上下文截断问题，是你开发 AI 原生应用的全能手册。"
+    },
+    "en": {
+      "name": "LLM 应用设计模式",
+      "desc": "Automated summary for llm-app-patterns",
+      "full_desc": "Detailed guide for llm-app-patterns based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "mcp-builder",
+  "translations": {
+    "zh": {
+      "name": "MCP 协议服务端开发",
+      "desc": "开发符合 Model Context Protocol 规范的自定义工具与资源服务器。",
+      "full_desc": "让 AI 连接一切数据。该技能教你如何编写自己的 MCP Server，让 Claude 等 AI 能够安全、规范地读取你的本地文件、数据库或第三方 API，实现真·智能触达。"
+    },
+    "en": {
+      "name": "MCP 协议服务端开发",
+      "desc": "Automated summary for mcp-builder",
+      "full_desc": "Detailed guide for mcp-builder based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "metasploit-framework",
+  "translations": {
+    "zh": {
+      "name": "Metasploit 渗透实战",
+      "desc": "掌握全球最流行的渗透测试框架，进行全流程自动漏洞利用。",
+      "full_desc": "漏洞利用的工业标准。该技能教你如何进行模块搜索、设置 Payload（如 Meterpreter）、维持权限以及清理痕迹。它是职业白帽子在渗透测试阶段的终极利器。"
+    },
+    "en": {
+      "name": "Metasploit 渗透实战",
+      "desc": "Automated summary for metasploit-framework",
+      "full_desc": "Detailed guide for metasploit-framework based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "network-101",
+  "translations": {
+    "zh": {
+      "name": "计算机网络基石",
+      "desc": "深入理解 TCP/IP、DNS、HTTP/S 及其底层的通信原理。",
+      "full_desc": "懂网络才能懂安全。该技能以直观的方式解析了数据包如何跨越互联网，讲解了防火墙、NAT、VPN 等核心概念，是所有 IT 人员和安全爱好者的必修地基。"
+    },
+    "en": {
+      "name": "计算机网络基石",
+      "desc": "Automated summary for network-101",
+      "full_desc": "Detailed guide for network-101 based on community standards."
+    }
+  },
+  "category": "Other"
+},
+{
+  "id": "notebooklm",
+  "translations": {
+    "zh": {
+      "name": "NotebookLM 知识库管理",
+      "desc": "利用 Google 的智能笔记本进行海量文档分析、摘要与播客生成。",
+      "full_desc": "你的数字外脑。该技能教你如何整理碎片的 PDF、文本资料，通过 NotebookLM 快速生成结构化笔记或中文音频总结，是学习、考证和科研人员的最佳知识加速器。"
+    },
+    "en": {
+      "name": "NotebookLM 知识库管理",
+      "desc": "Automated summary for notebooklm",
+      "full_desc": "Detailed guide for notebooklm based on community standards."
+    }
+  },
+  "category": "Other"
+},
+{
+  "id": "pdf-official",
+  "translations": {
+    "zh": {
+      "name": "PDF 格式自动化处理",
+      "desc": "使用代码读取、合并、水印和自动化分析 PDF 官方文档。",
+      "full_desc": "处理合同和报告的救星。该技能涵盖了 Python/Node 自动化处理 PDF 的技巧，教你如何精准提取表格数据、批量添加数字签名以及实现复杂的文档拼接逻辑。"
+    },
+    "en": {
+      "name": "PDF 格式自动化处理",
+      "desc": "Automated summary for pdf-official",
+      "full_desc": "Detailed guide for pdf-official based on community standards."
+    }
+  },
+  "category": "Other"
+},
+{
+  "id": "playwright-skill",
+  "translations": {
+    "zh": {
+      "name": "Playwright 自动化测试",
+      "desc": "使用微软出品的现代浏览器自动化框架进行爬虫与 UI 测试。",
+      "full_desc": "比 Selenium 更快更强。该技能教你如何处理异步元素加载、如何模拟移动端访问以及如何通过录制功能快速生成稳健的 Web 自动化脚本。"
+    },
+    "en": {
+      "name": "Playwright 自动化测试",
+      "desc": "Automated summary for playwright-skill",
+      "full_desc": "Detailed guide for playwright-skill based on community standards."
+    }
+  },
+  "category": "Automation"
+},
+{
+  "id": "pptx-official",
+  "translations": {
+    "zh": {
+      "name": "PPT 商业汇报自动化",
+      "desc": "批量生成符合企业规范的 PowerPoint 演示文稿。",
+      "full_desc": "再也不用为了调 PPT 格式熬夜。该技能教你如何利用代码自动填充幻灯片内容、生成动态图表以及维护统一的主题配色，非常适合定期生成数据分析报告。"
+    },
+    "en": {
+      "name": "PPT 商业汇报自动化",
+      "desc": "Automated summary for pptx-official",
+      "full_desc": "Detailed guide for pptx-official based on community standards."
+    }
+  },
+  "category": "Other"
+},
+{
+  "id": "privilege-escalation-methods",
+  "translations": {
+    "zh": {
+      "name": "通用提权方法论综述",
+      "desc": "总结跨平台（Windows/Linux）的权限提升通用逻辑与思维习惯。",
+      "full_desc": "提权的本质是寻找‘越权点’。该技能提炼了从配置审计到内核溢出的通用研究框架，教你如何思考如何利用系统服务的弱点，培养你在陌生环境下的渗透直觉。"
+    },
+    "en": {
+      "name": "通用提权方法论综述",
+      "desc": "Automated summary for privilege-escalation-methods",
+      "full_desc": "Detailed guide for privilege-escalation-methods based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "product-manager-toolkit",
+  "translations": {
+    "zh": {
+      "name": "产品经理全能工具箱",
+      "desc": "掌握 PRD 编写、原型设计思维以及敏捷开发中的需求排期技巧。",
+      "full_desc": "在技术与业务之间架起桥梁。该技能汇集了顶级 PM 使用的需求分析模板、用户体验（UX）审查清单，教你如何准确定义产品价值并推动研发落地。"
+    },
+    "en": {
+      "name": "产品经理全能工具箱",
+      "desc": "Automated summary for product-manager-toolkit",
+      "full_desc": "Detailed guide for product-manager-toolkit based on community standards."
+    }
+  },
+  "category": "Planning"
+},
+{
+  "id": "project-guardian",
+  "translations": {
+    "zh": {
+      "name": "项目守卫者：风险管理",
+      "desc": "识别项目中的‘坑’，提前预见延期、超支和技术选型风险。",
+      "full_desc": "最好的危机处理是预防。该技能教你如何识别项目早期的‘不稳’信号，提供了实用的风险评估矩阵，帮助你的项目在复杂多变的环境中始终保持在正轨上。"
+    },
+    "en": {
+      "name": "项目守卫者：风险管理",
+      "desc": "Automated summary for project-guardian",
+      "full_desc": "Detailed guide for project-guardian based on community standards."
+    }
+  },
+  "category": "Planning"
+},
+{
+  "id": "prompt-engineering",
+  "translations": {
+    "zh": {
+      "name": "提示词工程精要",
+      "desc": "编写高质量指令以激发大语言模型的最强逻辑与创作能力。",
+      "full_desc": "问得好，才答得好。该技能涵盖了思维链（CoT）、角色设定、Few-shot 等专业技巧，教你如何通过精准的文本引导，让 AI 产生极少幻觉的高质量输出。"
+    },
+    "en": {
+      "name": "提示词工程精要",
+      "desc": "Automated summary for prompt-engineering",
+      "full_desc": "Detailed guide for prompt-engineering based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "react-best-practices",
+  "translations": {
+    "zh": {
+      "name": "React 企业级开发实践",
+      "desc": "掌握 React Hooks 高级用法、状态管理优化和服务器组件（RSC）。",
+      "full_desc": "不仅是会用，而是用得好。该技能深入探讨了 React 18/19 的新特性，教你如何避免冗余渲染、如何架构大型项目结构，以及如何编写可测试、易扩展的 UI 组件。"
+    },
+    "en": {
+      "name": "React 企业级开发实践",
+      "desc": "Automated summary for react-best-practices",
+      "full_desc": "Detailed guide for react-best-practices based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "red-team-tools",
+  "translations": {
+    "zh": {
+      "name": "红队实战武器库",
+      "desc": "了解攻击者使用的武器，从 C2 架构到绕过杀毒软件的实战工具。",
+      "full_desc": "不仅是渗透，更是对抗。该技能揭示了红队对抗中的‘隐蔽’技巧，教你如何部署 Cobalt Strike 等指挥系统、如何混淆 Payload 以通过 EDR 检测。"
+    },
+    "en": {
+      "name": "红队实战武器库",
+      "desc": "Automated summary for red-team-tools",
+      "full_desc": "Detailed guide for red-team-tools based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "senior-architect",
+  "translations": {
+    "zh": {
+      "name": "高级架构师进阶",
+      "desc": "处理高并发、高可用系统的设计挑战与权衡（Trade-offs）。",
+      "full_desc": "架构是权衡的艺术。该技能带你分析 Netflix、Uber 等级的大型系统架构，教你如何处理微服务划分、数据分区以及在 CAP 定理中做出最符合业务的决策。"
+    },
+    "en": {
+      "name": "高级架构师进阶",
+      "desc": "Automated summary for senior-architect",
+      "full_desc": "Detailed guide for senior-architect based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "senior-fullstack",
+  "translations": {
+    "zh": {
+      "name": "资深全栈开发者指南",
+      "desc": "打通前后端、数据库与运维的全流程，掌握复杂问题的端到端解决能力。",
+      "full_desc": "真正的全栈是能解决所有层面的 Bug。该技能聚焦于多技术栈的深度整合，教你如何优化全链路排查问题的效率，是每个中级程序员向资深迈进的必修课。"
+    },
+    "en": {
+      "name": "资深全栈开发者指南",
+      "desc": "Automated summary for senior-fullstack",
+      "full_desc": "Detailed guide for senior-fullstack based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "shodan-reconnaissance",
+  "translations": {
+    "zh": {
+      "name": "Shodan 物联网搜寻术",
+      "desc": "使用‘物联网搜索引擎’发现全球联网设备的漏洞与开放服务。",
+      "full_desc": "不需要扫描就能看见世界。该技能教你如何使用 Shodan 查询语法寻找暴露在公网的 PLC、摄像头、未授权数据库以及过时的服务器，是红蓝对抗踩点阶段的核武器。"
+    },
+    "en": {
+      "name": "Shodan 物联网搜寻术",
+      "desc": "Automated summary for shodan-reconnaissance",
+      "full_desc": "Detailed guide for shodan-reconnaissance based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "skill-developer",
+  "translations": {
+    "zh": {
+      "name": "技能开发者指南",
+      "desc": "学习如何为本项目贡献、编写和优化新的技能插件。",
+      "full_desc": "参与开源，共同成长。该技能详细解释了本项目（Skill Manager）的内部工作原理，教你如何编写符合规范的技能模板、由于如何提交 PR 以及如何调优 AI 提取逻辑。"
+    },
+    "en": {
+      "name": "技能开发者指南",
+      "desc": "Automated summary for skill-developer",
+      "full_desc": "Detailed guide for skill-developer based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "software-architecture",
+  "translations": {
+    "zh": {
+      "name": "软件架构模式全解析",
+      "desc": "理解单体、微服务、六边形架构以及事件驱动设计的优劣。",
+      "full_desc": "没有完美的架构，只有最适合的架构。该技能系统化地讲解了各类软件架构的设计思想，帮助你在面对新需求时能快速选择出最稳定、最易于扩展的代码蓝图。"
+    },
+    "en": {
+      "name": "软件架构模式全解析",
+      "desc": "Automated summary for software-architecture",
+      "full_desc": "Detailed guide for software-architecture based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "sql-injection-testing",
+  "translations": {
+    "zh": {
+      "name": "SQL 注入全实战",
+      "desc": "深入掌握手工与自动化的 SQL 注入挖掘、报错显现与数据获取。",
+      "full_desc": "Web 安全的老牌霸主。该技能教你如何利用单引号测试漏洞，通过 Union、时延或布尔盲注提取数据库敏感信息，并向开发者展示如何通过参数化查询彻底根治。"
+    },
+    "en": {
+      "name": "SQL 注入全实战",
+      "desc": "Automated summary for sql-injection-testing",
+      "full_desc": "Detailed guide for sql-injection-testing based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "sqlmap-database-pentesting",
+  "translations": {
+    "zh": {
+      "name": "sqlmap 自动化注入巅峰",
+      "desc": "精通业界最强大的 SQL 自动化渗入测试工具的使用技巧。",
+      "full_desc": "让脚本替你干活。该技能教你如何利用 sqlmap 绕过 WAF 过滤（Tamper 脚本）、如何批量注入测试以及如何通过命令执行获取服务器控制权。"
+    },
+    "en": {
+      "name": "sqlmap 自动化注入巅峰",
+      "desc": "Automated summary for sqlmap-database-pentesting",
+      "full_desc": "Detailed guide for sqlmap-database-pentesting based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "ssh-penetration-testing",
+  "translations": {
+    "zh": {
+      "name": "SSH 服务安全审计",
+      "desc": "针对 SSH 服务的暴力破解、私钥泄露利用及安全加固建议。",
+      "full_desc": "远程管理的头号目标。该技能带你了解 SSH 协议常见的弱点，教你如何发现暴露在公网的弱密码、由于如何审计私钥权限配置不当，并提供最稳健的加固方案。"
+    },
+    "en": {
+      "name": "SSH 服务安全审计",
+      "desc": "Automated summary for ssh-penetration-testing",
+      "full_desc": "Detailed guide for ssh-penetration-testing based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "subagent-driven-development",
+  "translations": {
+    "zh": {
+      "name": "子智能体驱动开发 (SDD)",
+      "desc": "利用 AI 子智能体模式进行代码生成、自动化重构和复杂逻辑拆解。",
+      "full_desc": "未来已来。该技能介绍了一种全新的开发范式：将开发任务拆解并分发给多个专业化的子 AI 程序执行，教你如何作为‘调度员’高效管理 AI 产出的代码。"
+    },
+    "en": {
+      "name": "子智能体驱动开发 (SDD)",
+      "desc": "Automated summary for subagent-driven-development",
+      "full_desc": "Detailed guide for subagent-driven-development based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "systematic-debugging",
+  "translations": {
+    "zh": {
+      "name": "系统化调试法",
+      "desc": "超越断点调试，学习分析内存、线程和分布式链路中的诡异 Bug。",
+      "full_desc": "别再靠猜来修 Bug。该技能教你科学的调试方法：建立假设、设计实验、验证结论。无论是本地的代码还是生产环境的慢请求，都能通过这套逻辑迅速定位。"
+    },
+    "en": {
+      "name": "系统化调试法",
+      "desc": "Automated summary for systematic-debugging",
+      "full_desc": "Detailed guide for systematic-debugging based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "test-driven-development",
+  "translations": {
+    "zh": {
+      "name": "TDD 测试驱动开发",
+      "desc": "先写测试后写代码，通过测试用例驱动出高质量的软件设计。",
+      "full_desc": "要把 Bug 扼杀在摇篮里。该技能教你‘红-绿-重构’的经典循环，帮助你编写出更具鲁棒性、更自然被隔离和更易于长期维护的工业级代码。"
+    },
+    "en": {
+      "name": "TDD 测试驱动开发",
+      "desc": "Automated summary for test-driven-development",
+      "full_desc": "Detailed guide for test-driven-development based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "theme-factory",
+  "translations": {
+    "zh": {
+      "name": "主题工厂：视觉一致性",
+      "desc": "自动化生成符合品牌或系统调性的配色、图标及 UI 主题包。",
+      "full_desc": "一键换肤的背后。该技能介绍了现代 CSS 变量和 Design Tokens 的应用，教你如何构建一个能够实时预览、自动生成的动态主题系统，让你的产品在视觉上永远保持新鲜。"
+    },
+    "en": {
+      "name": "主题工厂：视觉一致性",
+      "desc": "Automated summary for theme-factory",
+      "full_desc": "Detailed guide for theme-factory based on community standards."
+    }
+  },
+  "category": "UI/UX"
+},
+{
+  "id": "ui-ux-pro-max",
+  "translations": {
+    "zh": {
+      "name": "UI/UX 顶级体验设计",
+      "desc": "从交互心理学到高阶排版，全面提升产品的易用性与视觉美感。",
+      "full_desc": "让用户爱上你的产品。该技能涵盖了菲茨定律、颜色对比度标准以及复杂的组件交互逻辑，助你打造出既符合直觉又具有高级感的数字产品体验。"
+    },
+    "en": {
+      "name": "UI/UX 顶级体验设计",
+      "desc": "Automated summary for ui-ux-pro-max",
+      "full_desc": "Detailed guide for ui-ux-pro-max based on community standards."
+    }
+  },
+  "category": "UI/UX"
+},
+{
+  "id": "web-artifacts-builder",
+  "translations": {
+    "zh": {
+      "name": "Web 静态资产自动构建",
+      "desc": "优化 JS/CSS 打包流程，实现极其轻量、极速载入的 Web 资产分发。",
+      "full_desc": "快到不可思议。该技能教你如何配置 Vite, Webpack 或 RSBuild，通过 Tree-shaking、图片自动压缩和 CDN 容灾方案，挑战网页加载速度的极限。"
+    },
+    "en": {
+      "name": "Web 静态资产自动构建",
+      "desc": "Automated summary for web-artifacts-builder",
+      "full_desc": "Detailed guide for web-artifacts-builder based on community standards."
+    }
+  },
+  "category": "Development"
+},
+{
+  "id": "webapp-testing",
+  "translations": {
+    "zh": {
+      "name": "现代 Web 应用测试",
+      "desc": "针对单页应用 (SPA) 和服务端渲染 (SSR) 架构的全方位安全评估。",
+      "full_desc": "针对新技术的漏洞。该技能讲解了如何挖掘 Vue/React 项目特有的 XSS、如何通过源码泄露还原逻辑，以及在 API 与前端高度耦合下的新型漏洞利用路径。"
+    },
+    "en": {
+      "name": "现代 Web 应用测试",
+      "desc": "Automated summary for webapp-testing",
+      "full_desc": "Detailed guide for webapp-testing based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "windows-privilege-escalation",
+  "translations": {
+    "zh": {
+      "name": "Windows 权限提升 (提权)",
+      "desc": "在 Windows 环境内，从普通用户提升到 SYSTEM 或管理员权限。",
+      "full_desc": "掌握 Windows 的‘后门’权限。该技能涵盖了服务路径不规范利用、DLL 劫持、未授权访问本地提权漏洞（如烂土豆系列）等实操经验，是红队对抗的必修课。"
+    },
+    "en": {
+      "name": "Windows 权限提升 (提权)",
+      "desc": "Automated summary for windows-privilege-escalation",
+      "full_desc": "Detailed guide for windows-privilege-escalation based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "wireshark-analysis",
+  "translations": {
+    "zh": {
+      "name": "Wireshark 流量审计专家",
+      "desc": "捕获和解码网络数据包，进行深层协议分析与安全威胁排查。",
+      "full_desc": "数据包从来不说谎。该技能教你如何设置复杂的显示过滤器、如何解密 SSL/TLS 流量以及如何识别异常的网络扫描特征，是网络医生和安全审计者的金睛火眼。"
+    },
+    "en": {
+      "name": "Wireshark 流量审计专家",
+      "desc": "Automated summary for wireshark-analysis",
+      "full_desc": "Detailed guide for wireshark-analysis based on community standards."
+    }
+  },
+  "category": "Security"
+},
+{
+  "id": "writing-plans",
+  "translations": {
+    "zh": {
+      "name": "高效技术文档/计划编写",
+      "desc": "学习如何编写逻辑严密、目标明确的实施计划与技术规格说明书。",
+      "full_desc": "清晰的计划是成功的一半。该技能提供了一系列行业通用的 PRD 和技术设计模板（RFC），教你如何平衡深度与广度，写出让团队成员都能一眼看懂的高质量文档。"
+    },
+    "en": {
+      "name": "高效技术文档/计划编写",
+      "desc": "Automated summary for writing-plans",
+      "full_desc": "Detailed guide for writing-plans based on community standards."
+    }
+  },
+  "category": "Planning"
+},
+{
+  "id": "xlsx-official",
+  "translations": {
+    "zh": {
+      "name": "Excel 数据处理自动化",
+      "desc": "批量处理、生成和分析复杂的 Excel (XLSX) 报表。",
+      "full_desc": "让 Excel 彻底自动化。该技能教你如何利用代码进行跨表计算、自动生成统计图表以及处理海量财务或统计数据，是处理复杂办公数据的终极提效方案。"
+    },
+    "en": {
+      "name": "Excel 数据处理自动化",
+      "desc": "Automated summary for xlsx-official",
+      "full_desc": "Detailed guide for xlsx-official based on community standards."
+    }
+  },
+  "category": "Automation"
 }]
