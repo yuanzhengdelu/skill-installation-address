@@ -17,5 +17,6 @@
       "full_desc": "主要なクラウドサービスの設定ミス、水平移動、テナント間攻撃、高度なAPI権限の利用手法を網羅します。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

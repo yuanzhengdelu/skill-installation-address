@@ -17,5 +17,6 @@
       "full_desc": "Microsoft Active Directoryに対する実世界の攻撃をシミュレートするための必須の方法論とツール（BloodHound、Impacket、Mimikatzなど）を提供します。偵察の実行、認証情報の抽出、誤設定の悪用（AD CSなど）、倫理的な方法でのドメイン管理者権限の取得に使用します。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

@@ -17,5 +17,6 @@
       "full_desc": "シェル取得後が本場です。カーネル脆弱性、SUID設定ミス、cronジョブの悪用など、権限昇格の高度なテクニックを学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

@@ -17,5 +17,6 @@
       "full_desc": "自律的な計画、メモリ管理、ツール呼び出しなどの設計パターンを学び、複雑なタスクを遂行できるAIエージェントの構築を支援します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

@@ -15,5 +15,6 @@
     }
   },
   "category": "Other",
-  "audit_passed": true
+  "audit_passed": true,
+  "createdAt": "2026-01-20T00:00:00Z"
 }

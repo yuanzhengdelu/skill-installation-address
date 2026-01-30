@@ -17,5 +17,6 @@
       "full_desc": "Seleniumより高速で堅牢。非同期読み込みの処理やブラウザ横断テストの手法を学び、効率を最大化します。"
     }
   },
-  "category": "Automation"
+  "category": "Automation",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

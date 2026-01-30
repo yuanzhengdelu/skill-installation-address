@@ -17,5 +17,6 @@
       "full_desc": "Webセキュリティの王道。インジェクションポイントの特定、ブラインド・インジェクションなどの高度な手法を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

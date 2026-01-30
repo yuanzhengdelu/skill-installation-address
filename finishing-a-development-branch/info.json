@@ -17,5 +17,6 @@
       "full_desc": "マージでリポジトリを壊さないでください。RebaseとMergeの選択、マージ前に実行すべきチェックリストを網羅しています。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

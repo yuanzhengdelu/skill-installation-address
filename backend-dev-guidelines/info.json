@@ -17,5 +17,6 @@
       "full_desc": "単なるコーディングではなく、優れたシステムの構築。RESTful API設計、DB最適化、エラー処理の標準を網罗します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

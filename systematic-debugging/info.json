@@ -17,5 +17,6 @@
       "full_desc": "勘に頼らない開発。仮説を立て、実験し、結論を導き出す科学的なトラブルシューティング能力を鍛えます。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

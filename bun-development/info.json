@@ -17,5 +17,6 @@
       "full_desc": "Node.jsの低速から解放されます。Bun内蔵のバンドラーやテストランナーを活用し、瞬時にアプリをデプロイします。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

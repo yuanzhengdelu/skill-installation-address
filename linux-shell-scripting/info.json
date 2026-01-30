@@ -17,5 +17,6 @@
       "full_desc": "コマンドラインを武器に。grep、sed、awkを駆使してログを分析し、複雑な自動巡回スクリプトを作成する方法を習得します。"
     }
   },
-  "category": "Automation"
+  "category": "Automation",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

@@ -17,5 +17,6 @@
       "full_desc": "マスター・ワーカーアーキテクチャを紹介し、タスクを分解して複数のAIモデルに並列処理させることで、大規模な開発時間を大幅に短縮します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

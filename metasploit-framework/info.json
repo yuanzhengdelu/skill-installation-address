@@ -17,5 +17,6 @@
       "full_desc": "攻撃のデファクトスタンダード。モジュールの検索、ペイロードの設定、権限維持のテクニックを学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

@@ -17,5 +17,6 @@
       "full_desc": "APIセキュリティに焦点を当てます。ffufやwfuzzなどのツールを使用して、APIの脆弱性を発見し、バグバウンティプログラムでの成果を最大化する方法を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

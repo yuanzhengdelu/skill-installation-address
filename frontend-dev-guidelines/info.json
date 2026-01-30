@@ -17,5 +17,6 @@
       "full_desc": "チーム開発向け。ESLint、Prettier、TypeScriptのベストプラクティスを解説し、メンテナンス性の高い大規模開発を支援します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

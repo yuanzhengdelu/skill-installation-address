@@ -17,5 +17,6 @@
       "full_desc": "スキャンなしでネットワークを可視化。Shodan独自の検索構文を用い、公開されているサーバーやデバイスの穴を発見します。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

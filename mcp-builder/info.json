@@ -17,5 +17,6 @@
       "full_desc": "AIをあらゆるデータに接続。MCPサーバーを構築し、AIがローカルファイルや外部APIへ安全にアクセスできる環境を作ります。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

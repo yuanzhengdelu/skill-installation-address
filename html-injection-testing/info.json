@@ -17,5 +17,6 @@
       "full_desc": "XSSだけではありません。サニタイズの不備を突き、悪意のあるHTMLタグを挿入してページを改ざんしたり、フィッシングを行う手法を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

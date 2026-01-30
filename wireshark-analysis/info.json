@@ -17,5 +17,6 @@
       "full_desc": "パケットは嘘をつきません。高度なフィルタ、SSL解読、異常な通信パターンの識別方法をプロの視点から学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

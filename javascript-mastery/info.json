@@ -17,5 +17,6 @@
       "full_desc": "構文だけでなく、V8エンジンの仕組み、イベントループ、メモリ管理を理解し、パフォーマンスの高いコードを書く力を養います。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

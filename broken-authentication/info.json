@@ -17,5 +17,6 @@
       "full_desc": "ログインを回避する手法を理解します。弱いパスワード、セッション・ハイジャック、JWT偽造などの原理を網羅します。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

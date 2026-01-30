@@ -17,5 +17,6 @@
       "full_desc": "デスクトップを救いましょう。拡張子や日付、内容に基づいてファイルを自動移動するPythonまたはNodeスクリプトの作成方法を学びます。"
     }
   },
-  "category": "Automation"
+  "category": "Automation",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

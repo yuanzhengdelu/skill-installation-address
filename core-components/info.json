@@ -17,5 +17,6 @@
       "full_desc": "スパゲッティコードからの脱却。アトミックデザインを用いてUIを分解し、疎結合で保守性の高いライブラリを作成します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

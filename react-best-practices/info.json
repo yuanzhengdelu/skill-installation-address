@@ -17,5 +17,6 @@
       "full_desc": "保守性の高いコンポーネント設計。状態管理、カスタムHooks、レンダリング最適化の実践手法を学びます。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

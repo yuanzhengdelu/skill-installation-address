@@ -17,5 +17,6 @@
       "full_desc": "AWSのセキュリティ評価を実践します。IAMの権限乱用やS3バケットの漏洩対策など、クラウド特有の攻撃手法と防御を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

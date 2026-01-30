@@ -17,5 +17,6 @@
       "full_desc": "リポジトリを自動化しましょう。テスト、フォーマットチェック、リリース配信を自動実行する.ymlスクリプトの作成を学びます。"
     }
   },
-  "category": "Automation"
+  "category": "Automation",
+  "createdAt": "2026-01-20T00:00:00Z"
 }

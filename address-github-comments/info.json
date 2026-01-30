@@ -17,5 +17,6 @@
       "full_desc": "GitHubのフィードバックにプロフェッショナルに対応できます。文脈を分析し、適切な返信案を提供して、プルリクエストの処理を効率化します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 }
