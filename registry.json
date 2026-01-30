@@ -18,7 +18,8 @@
       "full_desc": "Microsoft Active Directoryに対する実世界の攻撃をシミュレートするための必須の方法論とツール（BloodHound、Impacket、Mimikatzなど）を提供します。偵察の実行、認証情報の抽出、誤設定の悪用（AD CSなど）、倫理的な方法でのドメイン管理者権限の取得に使用します。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "address-github-comments",
@@ -39,7 +40,8 @@
       "full_desc": "GitHubのフィードバックにプロフェッショナルに対応できます。文脈を分析し、適切な返信案を提供して、プルリクエストの処理を効率化します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "algorithmic-art",
@@ -60,7 +62,8 @@
       "full_desc": "ジェネレーティブアートの世界を探索しましょう！数学公式と論理を用いて、幾何学模様や動的な視覚効果を自動的に生成します。"
     }
   },
-  "category": "UI/UX"
+  "category": "UI/UX",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "translations": {
@@ -104,7 +107,8 @@
       "full_desc": "APIセキュリティに焦点を当てます。ffufやwfuzzなどのツールを使用して、APIの脆弱性を発見し、バグバウンティプログラムでの成果を最大化する方法を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "app-store-optimization",
@@ -125,7 +129,8 @@
       "full_desc": "アプリのダウンロード数を増やしたいですか？キーワードやタイトルの最適化、SEOの仕組みを利用して露出を高める方法を学びます。"
     }
   },
-  "category": "Planning"
+  "category": "Planning",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "autonomous-agent-patterns",
@@ -146,7 +151,8 @@
       "full_desc": "自律的な計画、メモリ管理、ツール呼び出しなどの設計パターンを学び、複雑なタスクを遂行できるAIエージェントの構築を支援します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "aws-penetration-testing",
@@ -167,7 +173,8 @@
       "full_desc": "AWSのセキュリティ評価を実践します。IAMの権限乱用やS3バケットの漏洩対策など、クラウド特有の攻撃手法と防御を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "backend-dev-guidelines",
@@ -188,7 +195,8 @@
       "full_desc": "単なるコーディングではなく、優れたシステムの構築。RESTful API設計、DB最適化、エラー処理の標準を網罗します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "brainstorming",
@@ -209,7 +217,8 @@
       "full_desc": "SCAMPERなどの思考フレームワークを提供し、迅速に大量のアイデアを生み出し、解決策を見つける手助けをします。"
     }
   },
-  "category": "Planning"
+  "category": "Planning",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "brand-guidelines-anthropic",
@@ -230,7 +239,8 @@
       "full_desc": "フォント、配色、トーンなど、Anthropicブランドを正しく引用し、公式基準に沿った表現を保証します。"
     }
   },
-  "category": "UI/UX"
+  "category": "UI/UX",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "brand-guidelines-community",
@@ -251,7 +261,8 @@
       "full_desc": "プロジェクトに独自の「コミュニティ感」を持たせる方法。ロゴ設計や帰属意識を高めるビジュアル手法を学びます。"
     }
   },
-  "category": "UI/UX"
+  "category": "UI/UX",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "broken-authentication",
@@ -272,7 +283,8 @@
       "full_desc": "ログインを回避する手法を理解します。弱いパスワード、セッション・ハイジャック、JWT偽造などの原理を網羅します。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "bun-development",
@@ -293,7 +305,8 @@
       "full_desc": "Node.jsの低速から解放されます。Bun内蔵のバンドラーやテストランナーを活用し、瞬時にアプリをデプロイします。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "burp-suite-testing",
@@ -314,7 +327,8 @@
       "full_desc": "セキュリティエンジニアの「十徳ナイフ」。パケットのインターセプト、自動再送信、暗号化トラフィックの分析手法を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "canvas-design",
@@ -335,7 +349,8 @@
       "full_desc": "ネイティブCanvas APIをマスターし、ピクセルパーフェクトなアイコンやアニメーションをゼロから作成する方法を学びます。"
     }
   },
-  "category": "UI/UX"
+  "category": "UI/UX",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "ceshi",
@@ -354,7 +369,8 @@
     }
   },
   "category": "Other",
-  "audit_passed": true
+  "audit_passed": true,
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "claude-code-guide",
@@ -375,7 +391,8 @@
       "full_desc": "単なる対話ではありません。コンテキストの提供、リファクタリング、大規模なプロジェクト分析の手法を学びます。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "claude-d3js-skill",
@@ -396,7 +413,8 @@
       "full_desc": "プロンプトを使用して、複雑なSVG計算やデータバインディングをAIに任せ、ダイナミックなダッシュボードを即座に作成します。"
     }
   },
-  "category": "UI/UX"
+  "category": "UI/UX",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "cloud-penetration-testing",
@@ -417,7 +435,8 @@
       "full_desc": "主要なクラウドサービスの設定ミス、水平移動、テナント間攻撃、高度なAPI権限の利用手法を網羅します。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "concise-planning",
@@ -438,7 +457,8 @@
       "full_desc": "複雑なガントチャートに惑わされないでください。MVPを定義し、シンプルな看板を用いてチームの焦点を維持する方法を提言します。"
     }
   },
-  "category": "Planning"
+  "category": "Planning",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "content-creator",
@@ -459,7 +479,8 @@
       "full_desc": "バズるタイトルテンプレート、SEOキーワード、マルチプラットフォーム戦略を網羅し、個人でのメディア運営を強力に支援します。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "core-components",
@@ -480,7 +501,8 @@
       "full_desc": "スパゲッティコードからの脱却。アトミックデザインを用いてUIを分解し、疎結合で保守性の高いライブラリを作成します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "dispatching-parallel-agents",
@@ -501,7 +523,8 @@
       "full_desc": "マスター・ワーカーアーキテクチャを紹介し、タスクを分解して複数のAIモデルに並列処理させることで、大規模な開発時間を大幅に短縮します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "doc-coauthoring",
@@ -522,7 +545,8 @@
       "full_desc": "文書のバージョン混乱にさよならを。NotionやGoogle Docsでの非同期共同作業のベストプラクティスを共有し、チームでのドキュメント作成を効率化します。"
     }
   },
-  "category": "Planning"
+  "category": "Planning",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "docx-official",
@@ -543,7 +567,8 @@
       "full_desc": "手動でのレイアウトはもう不要です。コードを介してディレクトリ、見出し、ページ番号を自動処理し、ビジネスや法務基準に沿った文書を作成します。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "ethical-hacking-methodology",
@@ -564,7 +589,8 @@
       "full_desc": "「正規軍」への第一歩。単なるツール紹介ではなく、偵察、スキャン、権限昇格といったハッキングの論理と、信頼されるレポートの書き方を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "executing-plans",
@@ -585,7 +611,8 @@
       "full_desc": "計画を絵に描いた餅にしないでください。フィードバックループに焦点を当て、変化に迅速に対応し、プロジェクトを期日通りに完了させる方法を学びます。"
     }
   },
-  "category": "Planning"
+  "category": "Planning",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "file-organizer",
@@ -606,7 +633,8 @@
       "full_desc": "デスクトップを救いましょう。拡張子や日付、内容に基づいてファイルを自動移動するPythonまたはNodeスクリプトの作成方法を学びます。"
     }
   },
-  "category": "Automation"
+  "category": "Automation",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "file-path-traversal",
@@ -627,7 +655,8 @@
       "full_desc": "「../」一つでソースコードを奪われます。フィルタリングをバイパスしてサーバー内の機密ファイルを読み取る手法を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "finishing-a-development-branch",
@@ -648,7 +677,8 @@
       "full_desc": "マージでリポジトリを壊さないでください。RebaseとMergeの選択、マージ前に実行すべきチェックリストを網羅しています。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "frontend-design",
@@ -669,7 +699,8 @@
       "full_desc": "使いやすく、美しいページを。グラスモーフィズムや高度なCSSテクニックを使用して、インターフェースの質感を高める方法を共有します。"
     }
   },
-  "category": "UI/UX"
+  "category": "UI/UX",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "frontend-dev-guidelines",
@@ -690,7 +721,8 @@
       "full_desc": "チーム開発向け。ESLint、Prettier、TypeScriptのベストプラクティスを解説し、メンテナンス性の高い大規模開発を支援します。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "translations": {
@@ -734,7 +766,8 @@
       "full_desc": "単なるプッシュではありません。規約に沿ったコミットメッセージの書き方や、競合時の高度な対処法を学びます。"
     }
   },
-  "category": "Automation"
+  "category": "Automation",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "github-workflow-automation",
@@ -755,7 +788,8 @@
       "full_desc": "リポジトリを自動化しましょう。テスト、フォーマットチェック、リリース配信を自動実行する.ymlスクリプトの作成を学びます。"
     }
   },
-  "category": "Automation"
+  "category": "Automation",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "html-injection-testing",
@@ -776,7 +810,8 @@
       "full_desc": "XSSだけではありません。サニタイズの不備を突き、悪意のあるHTMLタグを挿入してページを改ざんしたり、フィッシングを行う手法を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "idor-testing",
@@ -797,7 +832,8 @@
       "full_desc": "「他人のデータが見えるか？」IDパラメータやトークンを改ざんして非認可データにアクセスする手法と、その防御策を詳しく解説します。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "internal-comms-anthropic",
@@ -818,7 +854,8 @@
       "full_desc": "トップ企業の内部論理に基づき、明確な進捗報告や非同期作業のコツを学び、ビジネスにおける影響力を高めます。"
     }
   },
-  "category": "Planning"
+  "category": "Planning",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "internal-comms-community",
@@ -839,7 +876,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "javascript-mastery",
@@ -860,7 +898,8 @@
       "full_desc": "構文だけでなく、V8エンジンの仕組み、イベントループ、メモリ管理を理解し、パフォーマンスの高いコードを書く力を養います。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "kaizen",
@@ -881,7 +920,8 @@
       "full_desc": "毎日1%の改善。PDCAサイクルを活用してワークフローを最適化し、無駄を減らし、チームの成果を底上げする方法を紹介します。"
     }
   },
-  "category": "Planning"
+  "category": "Planning",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "linux-privilege-escalation",
@@ -902,7 +942,8 @@
       "full_desc": "シェル取得後が本場です。カーネル脆弱性、SUID設定ミス、cronジョブの悪用など、権限昇格の高度なテクニックを学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "linux-shell-scripting",
@@ -923,7 +964,8 @@
       "full_desc": "コマンドラインを武器に。grep、sed、awkを駆使してログを分析し、複雑な自動巡回スクリプトを作成する方法を習得します。"
     }
   },
-  "category": "Automation"
+  "category": "Automation",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "llm-app-patterns",
@@ -944,7 +986,8 @@
       "full_desc": "対話を超えた応用。ベクトル検索、インテリジェントなルーティング、コンテキスト管理など、AIアプリ開発の定石を学びます。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "loki-mode",
@@ -965,7 +1008,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "mcp-builder",
@@ -986,7 +1030,8 @@
       "full_desc": "AIをあらゆるデータに接続。MCPサーバーを構築し、AIがローカルファイルや外部APIへ安全にアクセスできる環境を作ります。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "metasploit-framework",
@@ -1007,7 +1052,8 @@
       "full_desc": "攻撃のデファクトスタンダード。モジュールの検索、ペイロードの設定、権限維持のテクニックを学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "network-101",
@@ -1028,7 +1074,8 @@
       "full_desc": "インフラの知識は安全への鍵。パケットがインターネットをどう越えるか、防火牆やNAT、VPNの仕組みを解説します。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "notebooklm",
@@ -1049,7 +1096,8 @@
       "full_desc": "デジタルな脳の拡張。散らばった資料を整理し、NotebookLMで構造化されたノートや音声サマリーを瞬時に生成します。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "pdf-official",
@@ -1070,7 +1118,8 @@
       "full_desc": "契約書やレポート作成の救世主。テーブルデータの抽出や一括署名など、実務で役立つ自動化テクニックを学びます。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "pentest-checklist",
@@ -1091,7 +1140,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "pentest-commands",
@@ -1112,7 +1162,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "planning-with-files",
@@ -1133,7 +1184,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "playwright-skill",
@@ -1154,7 +1206,8 @@
       "full_desc": "Seleniumより高速で堅牢。非同期読み込みの処理やブラウザ横断テストの手法を学び、効率を最大化します。"
     }
   },
-  "category": "Automation"
+  "category": "Automation",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "pptx-official",
@@ -1170,7 +1223,8 @@
       "full_desc": "Detailed guide for pptx-official based on community standards."
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "privilege-escalation-methods",
@@ -1186,7 +1240,8 @@
       "full_desc": "Detailed guide for privilege-escalation-methods based on community standards."
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "product-manager-toolkit",
@@ -1202,7 +1257,8 @@
       "full_desc": "Detailed guide for product-manager-toolkit based on community standards."
     }
   },
-  "category": "Planning"
+  "category": "Planning",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "project-guardian",
@@ -1218,7 +1274,8 @@
       "full_desc": "Detailed guide for project-guardian based on community standards."
     }
   },
-  "category": "Planning"
+  "category": "Planning",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "prompt-engineering",
@@ -1234,7 +1291,8 @@
       "full_desc": "Detailed guide for prompt-engineering based on community standards."
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "prompt-library",
@@ -1255,7 +1313,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "react-best-practices",
@@ -1276,7 +1335,8 @@
       "full_desc": "保守性の高いコンポーネント設計。状態管理、カスタムHooks、レンダリング最適化の実践手法を学びます。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "react-ui-patterns",
@@ -1297,7 +1357,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "receiving-code-review",
@@ -1318,7 +1379,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "red-team-tools",
@@ -1334,7 +1396,8 @@
       "full_desc": "Detailed guide for red-team-tools based on community standards."
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "requesting-code-review",
@@ -1355,7 +1418,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "scanning-tools",
@@ -1376,7 +1440,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "senior-architect",
@@ -1392,7 +1457,8 @@
       "full_desc": "Detailed guide for senior-architect based on community standards."
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "senior-fullstack",
@@ -1408,7 +1474,8 @@
       "full_desc": "Detailed guide for senior-fullstack based on community standards."
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "shodan-reconnaissance",
@@ -1429,7 +1496,8 @@
       "full_desc": "スキャンなしでネットワークを可視化。Shodan独自の検索構文を用い、公開されているサーバーやデバイスの穴を発見します。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "skill-creator",
@@ -1450,7 +1518,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "skill-developer",
@@ -1466,7 +1535,8 @@
       "full_desc": "Detailed guide for skill-developer based on community standards."
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "slack-gif-creator",
@@ -1487,7 +1557,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "smtp-penetration-testing",
@@ -1508,7 +1579,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "software-architecture",
@@ -1529,7 +1601,8 @@
       "full_desc": "常に「トレードオフ」を。システム全体の設計規則を理解し、プロジェクトに最適なアーキテクチャを選択する力を養います。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "sql-injection-testing",
@@ -1550,7 +1623,8 @@
       "full_desc": "Webセキュリティの王道。インジェクションポイントの特定、ブラインド・インジェクションなどの高度な手法を学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "sqlmap-database-pentesting",
@@ -1566,7 +1640,8 @@
       "full_desc": "Detailed guide for sqlmap-database-pentesting based on community standards."
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "ssh-penetration-testing",
@@ -1582,7 +1657,8 @@
       "full_desc": "Detailed guide for ssh-penetration-testing based on community standards."
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "subagent-driven-development",
@@ -1598,7 +1674,8 @@
       "full_desc": "Detailed guide for subagent-driven-development based on community standards."
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "systematic-debugging",
@@ -1619,7 +1696,8 @@
       "full_desc": "勘に頼らない開発。仮説を立て、実験し、結論を導き出す科学的なトラブルシューティング能力を鍛えます。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "test-driven-development",
@@ -1635,7 +1713,8 @@
       "full_desc": "Detailed guide for test-driven-development based on community standards."
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "test-fixing",
@@ -1656,7 +1735,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "testing-patterns",
@@ -1677,7 +1757,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "theme-factory",
@@ -1693,7 +1774,8 @@
       "full_desc": "Detailed guide for theme-factory based on community standards."
     }
   },
-  "category": "UI/UX"
+  "category": "UI/UX",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "top-web-vulnerabilities",
@@ -1714,7 +1796,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "ui-ux-pro-max",
@@ -1735,7 +1818,8 @@
       "full_desc": "ユーザーを魅了するデザイン。アクセシビリティ、高度なレイアウト、物理ベースのアニメーションなど、一流の体験を作り出します。"
     }
   },
-  "category": "UI/UX"
+  "category": "UI/UX",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "using-git-worktrees",
@@ -1756,7 +1840,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "using-superpowers",
@@ -1777,7 +1862,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "verification-before-completion",
@@ -1798,7 +1884,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "web-artifacts-builder",
@@ -1814,7 +1901,8 @@
       "full_desc": "Detailed guide for web-artifacts-builder based on community standards."
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "web-design-guidelines",
@@ -1835,7 +1923,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "webapp-testing",
@@ -1851,7 +1940,8 @@
       "full_desc": "Detailed guide for webapp-testing based on community standards."
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "windows-privilege-escalation",
@@ -1867,7 +1957,8 @@
       "full_desc": "Detailed guide for windows-privilege-escalation based on community standards."
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "wireshark-analysis",
@@ -1888,7 +1979,8 @@
       "full_desc": "パケットは嘘をつきません。高度なフィルタ、SSL解読、異常な通信パターンの識別方法をプロの視点から学びます。"
     }
   },
-  "category": "Security"
+  "category": "Security",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "wordpress-penetration-testing",
@@ -1909,7 +2001,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "workflow-automation",
@@ -1930,7 +2023,8 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "writing-plans",
@@ -1946,7 +2040,8 @@
       "full_desc": "Detailed guide for writing-plans based on community standards."
     }
   },
-  "category": "Planning"
+  "category": "Planning",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "writing-skills",
@@ -1967,7 +2062,8 @@
       "full_desc": "プロジェクトへの貢献。SKILL.mdの記述、プロジェクト構造、多言語メタデータの自動生成プロセスを学びます。"
     }
   },
-  "category": "Development"
+  "category": "Development",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "xlsx-official",
@@ -1983,7 +2079,8 @@
       "full_desc": "Detailed guide for xlsx-official based on community standards."
     }
   },
-  "category": "Automation"
+  "category": "Automation",
+  "createdAt": "2026-01-20T00:00:00Z"
 },
 {
   "id": "xss-html-injection",
@@ -2004,5 +2101,6 @@
       "full_desc": "このスキルは現在、詳細なメタデータの更新を待機しています。"
     }
   },
-  "category": "Other"
+  "category": "Other",
+  "createdAt": "2026-01-20T00:00:00Z"
 }]
