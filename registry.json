@@ -693,6 +693,29 @@
   "category": "Development"
 },
 {
+  "translations": {
+    "en": {
+      "name": "fusion360",
+      "desc": "Control Autodesk Fusion 360 CAD software via the Claude Bridge add-in. Create sketches, draw shapes, extrude 3D objects, and build complex models interactively.",
+      "full_desc": "This skill enables Claude to control Autodesk Fusion 360 through the Claude Bridge add-in. You can create 3D models by sending commands that are automatically executed in Fusion 360. It supports construction geometry, sketch creation, drawing primitives (circles, rectangles, lines), applying constraints, and performing 3D operations like extrude, revolve, loft, fillet, and shell. Communication relies on file I/O via `commands.json` and `results.json`."
+    },
+    "zh": {
+      "name": "fusion360",
+      "desc": "通过 Claude Bridge 插件控制 Autodesk Fusion 360 CAD 软件。创建草图、绘制形状、挤压 3D 对象并交互式地构建复杂的模型。",
+      "full_desc": "此技能使 Claude 能够通过 Claude Bridge 插件控制 Autodesk Fusion 360。您可以通过发送在 Fusion 360 中自动执行的命令来创建 3D 模型。它支持构建几何体、创建草图、绘制基本图形（圆、矩形、线）、应用约束以及执行 3D 操作，如挤压 (extrude)、旋转 (revolve)、放样 (loft)、圆角 (fillet) 和抽壳 (shell)。通信依赖于通过 `commands.json` 和 `results.json` 进行的文件输入/输出。"
+    },
+    "ja": {
+      "name": "fusion360",
+      "desc": "Claude Bridge アドインを介して Autodesk Fusion 360 CAD ソフトウェアを制御します。スケッチの作成、図形の描画、3D オブジェクトの押し出し、および複雑なモデルの対話的な構築が可能です。",
+      "full_desc": "このスキルにより、Claude は Claude Bridge アドインを通じて Autodesk Fusion 360 を制御できます。Fusion 360 で自動的に実行されるコマンドを送信することで、3D モデルを作成できます。構築ジオメトリ、スケッチ作成、基本図形（円、長方形、線）の描画、拘束の適用、および押し出し (extrude)、回転 (revolve)、ロフト (loft)、フィレット (fillet)、シェル (shell) などの 3D 操作をサポートしています。通信は、`commands.json` と `results.json` を介したファイルI/Oに依存します。"
+    }
+  },
+  "category": "Automation",
+  "recommendation_score": 8.5,
+  "audit_passed": true,
+  "id": "fusion360"
+},
+{
   "id": "git-pushing",
   "translations": {
     "zh": {
