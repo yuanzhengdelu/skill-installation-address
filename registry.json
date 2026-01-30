@@ -63,6 +63,29 @@
   "category": "UI/UX"
 },
 {
+  "translations": {
+    "zh": {
+      "name": "API 文档生成器",
+      "desc": "从代码生成全面的 API 文档。在创建 API 文档、记录端点或生成 OpenAPI 规范时使用。",
+      "full_desc": "生成 API 文档的流程包括：识别所有 API 端点和路由，记录请求/响应格式，包括身份验证要求，添加示例请求和响应，以及如需要，生成 OpenAPI/Swagger 规范。"
+    },
+    "en": {
+      "name": "API Documentation Generator",
+      "desc": "Generates comprehensive API documentation from code. Use this when creating API documentation, recording endpoints, or generating OpenAPI specifications.",
+      "full_desc": "The process of generating API documentation involves identifying all API endpoints and routes, documenting request/response formats, including authentication requirements, adding sample requests and responses, and generating OpenAPI/Swagger specifications if needed."
+    },
+    "ja": {
+      "name": "APIドキュメントジェネレーター",
+      "desc": "コードから包括的なAPIドキュメントを生成します。APIドキュメントの作成、エンドポイントの記録、またはOpenAPI仕様の生成に使用します。",
+      "full_desc": "APIドキュメント生成プロセスには、すべてのAPIエンドポイントとルートの特定、リクエスト/レスポンス形式の記録、認証要件の含め、サンプルリクエストとレスポンスの追加、および必要に応じたOpenAPI/Swagger仕様の生成が含まれます。"
+    }
+  },
+  "category": "Development",
+  "recommendation_score": 8.9,
+  "audit_passed": true,
+  "id": "api-doc-generator"
+},
+{
   "id": "api-fuzzing-bug-bounty",
   "translations": {
     "zh": {
