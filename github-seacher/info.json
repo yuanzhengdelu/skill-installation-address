@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "zh": {
+      "name": "GitHub 搜索器",
+      "desc": "用于在 GitHub 上搜索仓库、代码、问题或用户。",
+      "full_desc": "此技能允许 AI 根据用户请求查询 GitHub API，以查找特定的存储库、代码片段、文档或用户配置文件。这对于研究现有的开源解决方案和依赖关系至关重要。"
+    },
+    "en": {
+      "name": "GitHub Searcher",
+      "desc": "Searches GitHub for repositories, code, issues, or users.",
+      "full_desc": "This skill allows the AI to query the GitHub API to find specific repositories, code snippets, documentation, or user profiles based on user requests. It is essential for researching existing open-source solutions and dependencies."
+    },
+    "ja": {
+      "name": "GitHub 検索機能",
+      "desc": "GitHubでリポジトリ、コード、イシュー、またはユーザーを検索します。",
+      "full_desc": "このスキルにより、AIはユーザーの要求に基づいてGitHub APIにクエリを実行し、特定のリポジトリ、コードスニペット、ドキュメント、またはユーザープロファイルを検索できます。既存のオープンソースソリューションや依存関係を調査するために不可欠です。"
+    }
+  },
+  "category": "Development",
+  "recommendation_score": 9,
+  "audit_passed": true,
+  "id": "github-seacher",
+  "createdAt": "2026-01-31T06:59:45.678Z"
+}
