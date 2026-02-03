@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "en": {
+      "name": "Game Development",
+      "desc": "Game development orchestrator. Routes to platform-specific skills based on project needs.",
+      "full_desc": "Comprehensive orchestrator skill providing core principles (Game Loop, fixed timestep, performance budgets, AI strategy, design patterns) and dynamic routing to specialized sub-skills for 2D/3D, mobile, PC, web, VR/AR, multiplayer, and game design based on project context."
+    },
+    "zh": {
+      "name": "游戏开发",
+      "desc": "游戏开发协调器。根据项目需求，路由至特定平台的技能。",
+      "full_desc": "全面的游戏开发协调器技能，提供核心原则（游戏循环、固定时间步长、性能预算、AI策略、设计模式）和动态路由功能，根据项目上下文将任务导向2D/3D、移动、PC、Web、VR/AR、多人游戏和游戏设计等专业子技能。"
+    },
+    "ja": {
+      "name": "ゲーム開発",
+      "desc": "ゲーム開発オーケストレーター。プロジェクトのニーズに基づいて、プラットフォーム固有のスキルにルーティングします。",
+      "full_desc": "ゲーム開発のコア原則（ゲームループ、固定タイムステップ、パフォーマンス予算、AI戦略、デザインパターン）と、プロジェクトのコンテキストに基づいて2D/3D、モバイル、PC、ウェブ、VR/AR、マルチプレイヤー、ゲームデザインなどの専門的なサブスキルへの動的ルーティングを提供する包括的なオーケストレータースキル。"
+    }
+  },
+  "category": "Development",
+  "recommendation_score": 9.5,
+  "audit_passed": true,
+  "id": "game-development",
+  "createdAt": "2026-02-03T11:56:17.449Z"
+}
